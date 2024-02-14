@@ -4,10 +4,9 @@ project:
 website:
   title: "Seabuck"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    right:
+      - href: about.qmd
+        text: FAQ
 
 format:
   html:

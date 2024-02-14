@@ -1,7 +1,9 @@
 ---
-title: "Seabuck"
+title: "[Adventures of a Seabuck]{.headers}"
+listing: 
+  contents: posts
+  type: default
+  sort: date desc
+execute:
+  freeze: auto 
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

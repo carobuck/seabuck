@@ -1,6 +1,21 @@
 [What's a Seabuck?]{.headers}
 
+[And other frequently asked questions.]{.subheaders}
+
+
 
 [Caro's going to sea and this is a travelogue of that adventure. I've signed myself up to throw things off the side of a ship in all weather and at all hours. The things we do for a good story.]{.bodyfont}
 
 hi caro
+
+::: {.div .bodyfont}
+- caro says hi
+- caro says  heid
+- caro says lkdjfld
+:::
+
+don't do this caro, but you are sleepy and silly
+
+- [caro says hi]{.bodyfont}
+- [caro says  heid]{.bodyfont}
+- [caro says lkdjfld]{.bodyfont}
