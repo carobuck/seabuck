@@ -1,0 +1,9 @@
+---
+title: "[Land Log: 2024-02-15]{.subheaders}"
+draft: true
+---
+
+::: {.div .bodyfont}
+The journey has officially begun--today's the day I fly to San Diego. My lovely parents will pick me up from the airport, likely with my grandmother in tow (we take her for the entertainment). 
+
+:::

@@ -5,9 +5,11 @@ draft: false
 
 ::: {.div .bodyfont}
 
-Last day at work today--a wild feeling to say the least! Projects kept me busy up until the very end, and I'm very grateful to my coworkers who are supportive and helping to pick up some of my regular duties so I can head out to sea. 
+Last day at work today (until the end of March)--a wild feeling to say the least! Projects kept me busy up until the very end, and I'm very grateful to my coworkers who are supportive and helping to pick up some of my regular duties so I can head out to sea. 
 
 Now it's time to finish packing, introduce myself to my fellow science party pals (via email), read up on what sorts of creatures we'll be collecting^[And how we do the collecting--so far I gather that A LOT of trays, buckets, and other forms of containers are essential for success.], and generally organize a few life details.^[Namely: vote, clean up my room, submit my taxes, and tell my MA pals farewell for now.]
+
+I also figured out how to get this site to auto-publish to Netlify (via [Github Action](https://quarto.org/docs/publishing/netlify.html#github-action)), which will probably come in very handy when out to sea and wifi is a more limited resource. Side bar for the even bigger nerds--did y'all see the [new Quarto update](https://quarto.org/docs/blog/posts/2024-01-24-1.4-release/)?! The new dashboards feature looks SLICK.
 
 ----
 *Sea fun fact of the day:* [Pyrosomes](https://en.wikipedia.org/wiki/Pyrosome) are likely going to be a creature I'll become very familiar with in the next month. I just learned of their existence yesterday and apparently these things can get [MASSIVE](https://www.youtube.com/watch?v=5EQGA_4BZ5s)^[I think the ones we'll be dealing with are on the centimeter scale... but I'll of course keep my eyes peeled.].
