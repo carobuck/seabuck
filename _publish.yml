@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 3d412980-e710-40e5-b498-e40f0a6efab3
+      url: 'https://sweet-beijinho-997a14.netlify.app'
