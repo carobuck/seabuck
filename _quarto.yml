@@ -7,6 +7,7 @@ website:
     right:
       - href: about.qmd
         text: "[FAQ]{.subheaders}"
+  google-analytics: "G-KYMFWQFDG3"
 
 format:
   html:
