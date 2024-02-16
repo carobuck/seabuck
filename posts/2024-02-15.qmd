@@ -1,9 +1,78 @@
 ---
 title: "[Land Log: 2024-02-15]{.subheaders}"
-draft: true
+draft: false
 ---
 
 ::: {.div .bodyfont}
-The journey has officially begun--today's the day I fly to San Diego. My lovely parents will pick me up from the airport, likely with my grandmother in tow (we take her for the entertainment). 
+The journey has officially begun--today's log is written from the sky as I fly from Boston to San Diego. My lovely parents will pick me up from the airport, likely with my grandmother in tow (we take her for the entertainment). And as a lovely surprise bonus, turns out sister will be home from college for the long weekend so she'll probably be there too!^[She already requested help on calculus homework, so all is well.]
+
+But there's over four hours left in this flight and I already read through all the processing how-to docs^[Which I understand partially but definitely will need a couple hands-on tutorials for how we filter, preserve, and keep alive (?) these critters.] so let's add some more color and detail to this log.
+
+First up, I'm sure you're wondering "Caro what on earth have you packed for a 31-day journey to sea?" Well, thank you for asking. 
+
+CLOTHES^[To note, laundry machines are available on the ship. Will report back at the end of the trip if I have horrifically over or under packed.] & SHOES
+
+- balaclava, gloves, mittens^[in case it's frigid, or MA decides to be frigid when I return in late March]
+- 10x socks + underwear
+- 10x underwear
+- 2x jeans^[RIP, literally, to the pair I was planning to wear on the plane only to realize Tuesday that they had a LARGE hole in the crotch. Egads.]
+- 2x hiking pants
+- 3x leggings
+- 3x shorts
+- 4x sports bras
+- 12x shirts
+- PJs + fleece socks
+- swimsuit^[If there's a swim call at sea... you bet I'm jumping in. Just to say I did it.]
+- 2x sweatshirts
+- windbreaker
+- puffy vest
+- rain pants
+- 3x boots (hiking, blundstone, waterproof)
+- sneakers
+- shower flip flops
+
+OTHER
+
+- earplugs 
+- toiletries
+- journal 
+- Bible
+- computer
+- passport
+- iPad loaded with eBooks^[Will be listening to The Covenant of Water by Abraham Verghese and then reading Easy Beauty by Chloé Cooper Jones. After that, reading material will be whatever I happen to find in the ship's library.]
+- wrist brace + OT bands^[because after breaking my wrist last winter... I'll not be taking my wrist mobility for granted again!]
+- glasses, sunglasses, contacts
+- sunscreen
+- 2x disposable camera
+- snacks pt. 1, mostly for the plane^[Did I run out of time prepping today to peel and cut my carrots, resulting in me just snapping them in half and throwing them in a bag? Maybe. Do I regret my choices? Maybe.]
+ 
+PICKING UP IN SD (thanks mom & dad!)</br> 
+
+- fleece beanie
+- ball cap 
+- 2nd raincoat/windbreaker
+- seasick meds^[juuuust in case. we're about to find out how seasick I get. fingers crossed it's minimal.]
+- lactaid, arnica, salonpas 
+- puffy blanket + pillow
+- mom's go pro camera^[I am not a photographer but I will do my best]
+- snacks pt. 2, courtesy of Costco + my mother
+
+----
+
+Secondly, this is so far my favorite job "onboarding" I've done thus far in life. No other job has introduced me to so many gelatinous sea critters in such a short period of time. They really aren't kidding when they say mathematics^[For those I didn't go to college with: I majored in math. My day job has absolutely nothing to do with the ocean yet here I am HYPED.] is a 'dry science'--this trip is probably as far from 'dry science' as I possibly could get. In addition to a lot pyrosomes, we also might come across a fair number of [salps](https://en.wikipedia.org/wiki/Salp)^[AKA "sea grapes", they move via jet-propulsion, pumping water through their clear jelly bodies to get around] and [heteropods](https://en.wikipedia.org/wiki/Pterotracheoidea)^[AKA pterotracheoidea, which I have 0 clue how to pronounce, or "sea elephants", which I am 99.9% sure I can pronounce, unless there's some funky English going on].
+
+Also learned a bit more about the kinds of specialized nets we'll be dragging through the water to collect these creatures: Bongo and MOCNESS. I'm not sure yet what the difference is between the nets, other than aesthetic appearance and how they open/close, so stay tuned. The [Bongo](https://www.whoi.edu/what-we-do/explore/instruments/instruments-sensors-samplers/bongo-paired-zooplankton-net/) looks like bongo drums, with two side by side nets dragging along, the two caps at the end (called 'cod ends') collecting critters. The [MOCNESS](https://en.wikipedia.org/wiki/MOCNESS) (AKA Multiple Opening/Closing Net & Environmental Sensing System) looks like a large rectangular frame and has a bunch of nets (of varying levels of mesh) dragging behind it, with cod ends that open/close at different depths of the ocean.^[Check out [this blog post](https://lternet.edu/stories/cruising-the-ocean-off-california-wrangling-the-mocness-monster/) from a few years ago for some details on wrangling the MOCNESS.]
+
+Beyond the hands-on science, I am excited to learn more about why we care^[or *should* care] about these zooplankton and other similarly small creatures. What do they have to say about the quality of the oceans? What do their data foretell for other marine life, and for us humans?
+
+Other things I'm excited for on this cruise:
+
+- Potentially seeing some fluorescence in the wild (glowing critters!? yus please)
+- Phenomenal sunrises and sunsets
+- Probably the best star-gazing of my life, since there will be very little light pollution in the middle of the ocean
+
+----
+*Sea fun fact of the day:* One of the processing steps for the Bongo net involves pouring a can of seltzer on the critters. Apparently this immediately anesthetizes the organisms so they stop eating each other. Comical. And essential if we want to have any sort of useful sample.^[Though I really hope we'll get to look at some non-seltzered samples under a microscope... from his previous cruises, my dad says this is the really cool stuff to watch: prehistoric-looking bugs chomping down on smaller prehistoric-looking things.]
+
 
 :::

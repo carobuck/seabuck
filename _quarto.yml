@@ -2,11 +2,11 @@ project:
   type: website
 
 website:
-  title: "Seabuck"
+  title: "[Seabuck]{.headers}"
   navbar:
     right:
       - href: about.qmd
-        text: FAQ
+        text: "[FAQ]{.subheaders}"
 
 format:
   html:
