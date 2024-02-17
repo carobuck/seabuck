@@ -1,6 +1,7 @@
 ---
 title: "[Land Log: 2024-02-13]{.subheaders}"
 draft: false
+date: 2024-02-13
 ---
 
 ::: {.div .bodyfont}

@@ -1,0 +1,21 @@
+---
+title: "[Sea Log: 2024-02-17]{.subheaders}"
+draft: true
+---
+
+::: {.div .bodyfont}
+
+
+
+::: {layout-ncol=2}
+![R/V Roger Revelle, home sweet home](pics/revelle.jpg){fig-alt="side image of r/v roger revelle, blue-hulled ship with white writing on the side, and assorted scientific instruments on top."}
+
+![Two of four engines, ready to cruise us out to sea](pics/engineroom.jpg){fig-alt="down in the engine room, this is two of four yellow engines"}
+:::
+
+
+----
+*Sea fun fact of the day:* 
+
+
+:::
