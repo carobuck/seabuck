@@ -3,3 +3,6 @@ _site/*
 
 /.quarto/
 /_site/
+
+.DS_Store
+posts/pics/*

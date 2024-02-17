@@ -1,12 +1,35 @@
 ---
 title: "[Land Log: 2024-02-16]{.subheaders}"
-draft: true
+draft: false
 ---
 
 ::: {.div .bodyfont}
 
+I've moved aboard Revelle, so today is kinda a land log, kinda a sea log. (The boat is still physically tied to the pier so I'm calling this a land log officially).
+
+Today was all hands on deck (literally) to move boxes, prep nets^[With line and knots, of course, because I'm a sailor's daughter. And then with zipties because if we're realistic, the knots were taking a while. Sorry dad.], organize petri dishes, move more boxes and then tie^[by 'tie' I mean ziptie, bungee cords, and ratchet straps. No actual ropes, line or string.] down EVERYTHING.^[As soon as we leave the harbor tomorrow, we'll find out what didn't get tied down enough. Because it won't be where we left it. Side note--I'm a ratchet strap pro now.]
+
+Then an overview from the zoop^[Zooplankton, for long] crew leads on color coding, labeling^[TLDR: write LEGIBLY, with many notes, caveats, callouts, etc. When in doubt, write it out.], and high-level processing flow details. I think tomorrow we're doing a trial run with the nets with just sea water so that should be exciting. We're collecting specimens to add to PIC, the Pelagic Invertebrate Collection, with the goal of creating good samples that'll be around for generations.^[This sort of zooplankton sampling has been done for decades, so one of the ways these data are studied is over time for how things have changed or remained the same.]
+
+Finally, dinner^[Lentil soup was top tier], one last walk on solid land for a while, then unpacked & made my bed.
+
+Of course, I cannot fail to mention the ship tour we took when we first came aboard. Parents and sis came to see me off, so naturally we went up to the bridge^[Where dad nerded out about feeling the ship's power in all the joysticks and levers], and then swiftly down to the engine rooms because my mother wouldn't have it any other way. 
+
+::: {layout-ncol=2}
+![R/V Roger Revelle, home sweet home](pics/revelle.jpg){fig-alt="side image of r/v roger revelle, blue-hulled ship with white writing on the side, and assorted scientific instruments on top."}
+
+![Two of four engines, ready to cruise us out to sea](pics/engineroom.jpg){fig-alt="down in the engine room, this is two of four yellow engines"}
+:::
+::: {layout-ncol=2}
+![Mom just LOOOVES the bridge. Dad's in his happy place](pics/bridge_parents.jpg){fig-alt="Two adults, Caro's parents, standing on the bridge of a ship, surrounded by navigational controls"}
+
+![Looking out across the bay at downtown San Diego](pics/sd_skyline.jpg){fig-alt="Night image of city skyline in the distance, across the water."}
+:::
+And finally, the joys and follies of having seafaring parents. The good: they are super excited and supportive of this adventure. The bad: they still tried to gaslight me in all the ways you'd torment anyone new on the boat. To note: there is no sacred golden bolt on the ship, and mail buoys are not a thing. Don't be fooled.
+
 ----
-*Sea fun fact of the day:* One of the processing steps for the Bongo net involves pouring a can of seltzer on the critters. Apparently this immediately anesthetizes the organisms so they stop eating each other. Comical. And essential if we want to have any sort of useful sample.^[Though I really hope we'll get to look at some non-seltzered samples under a microscope... from his previous cruises, my dad says this is the really cool stuff to watch: prehistoric-looking bugs chomping down on smaller prehistoric-looking things.]
+*Sea fun fact of the day:* When we process the critters we collect, we preserve some in ethanol and some in formaldehyde. Both fixatives are necessary because they allow researchers to study different things--the ethanol preserves the DNA better, while the formaldehyde preserves the body features and aesthetics better (but makes the DNA go all wonky). You gotta be mindful with the ethanol because the alcohol content desiccates the zooplankton quite quickly and if you're not careful, you'll have a bunch of crispy lil buggers stuck in the mesh filter and then you'll have to use tweezers to remove them while hopefully not ripping off all the little legs and other appendages. Yikes. 
+Formaldehyde you've gotta be careful because, ya know, it's poison. 
 
 
 :::
