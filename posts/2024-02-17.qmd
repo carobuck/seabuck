@@ -1,21 +1,61 @@
 ---
 title: "[Sea Log: 2024-02-17]{.subheaders}"
-draft: true
+draft: false
+date: 2024-02-17
 ---
 
 ::: {.div .bodyfont}
 
+Woke up suddenly at 0444^[In case you're wondering, the bunks are comfy, if a little narrow. Blackout curtains all around the bed are very nice for cozy ambiance]. Alarm set for 0500 so this was convenient, I guess. Didn't want to miss our departure from the dock (scheduled for 0600, due to the tides^["because of the tides" is my new favorite reason for any time I'm early or late for something. "Sorry I'm late, the tides weren't suitable."]), and figured I could help with the final battening down the hatches.^[AKA securing the bow stowage with some very crusty rusty ratchet straps]
 
+Comically, we completely missed the send off from the dock. It is a total non-event on the ship apparently. Ali^[fellow volunteer citizen scientist in zoop crew] and I were like, "Are we moving right now??" And apparently we left a half hour ago. LOL oops. The water felt pretty calm as we were leaving the harbor. 
 
-::: {layout-ncol=2}
-![R/V Roger Revelle, home sweet home](pics/revelle.jpg){fig-alt="side image of r/v roger revelle, blue-hulled ship with white writing on the side, and assorted scientific instruments on top."}
+::: {layout="[35,-2,63]"}
 
-![Two of four engines, ready to cruise us out to sea](pics/engineroom.jpg){fig-alt="down in the engine room, this is two of four yellow engines"}
+![Some seals chilling on a buoy on the way out of the harbor; Point Loma is the land in the background](pics/seal.jpg){fig-alt="seals lounging on a green buoy in the middle of the harbor. land visible in the background."}
+
+![Dolphins! A big pod of them all jumping around the boat soon after we left the harbor](pics/dolphins.jpg){fig-alt="dolphins playing in the ship's wake"}
 :::
 
+Some assorted morning thoughts^[mostly from the res techs' safety briefing, but some sound very much like my parents' voices echoing around in my noggin]:
+
+- I AM NUMBER 37 ROLL CALL^[in case of emergencies, like fire or piracy or abandoning ship, this is my number.]
+- The ships have updated from ye olden days and now we've got starlink and a few other Internet connectivity options^[Still gotta be mindful of usage so we don't bog down the * science * happening]
+- No proprietary data for what we're collecting so you bet I'll be downloading some stuff later to check out and analyze/visualize^[TBD if I'll get to it on the ship, this is more the hands-on side of data collection to make sure we get really good samples that are clearly labeled]
+- Not feeling ill, but Bruh. Everything is swaying now. Like whooaaa you just sorta lightly run into walls.^[Kinda peaceful too though, like getting rocked to sleep. Not getting enough sleep last night might be a confounding variable though.] I think I'm getting used to it though.^["One hand for you and one hand for the ship" was ingrained into me as a small child and it makes so much sense now.] 
 
 ----
-*Sea fun fact of the day:* 
 
+First Bongo net test happened at 0810. This is hands-on science so rain pants and wellies are essentials. Some fun tidbits from the first haul: 
+
+- Take good notes.^[in pencil, legibly, and on this worksheet printed on nifty waterproof paper (feels mostly like normal paper, FYI)] Pay attention to the time the nets go in and out of the water. Pay attention to make sure the weight doesn't swing around to hit anything.
+- Our first extension with the winch was slow, because the weight on the nets wasn't heavy enough. We'll use a heavier one next time so the nets sink faster
+- It's called "riding the bongo" when you hold both cod ends to prevent the net from dragging as the winch lifts it over the side of the ship^[I didn't get a picture of this yet, so use your imagination.]
+- We use this old school style protractor thing to measure the angle of the cable that is towing the nets, especially as we pull it back in. 45 degrees is the golden target angle.^[I find it really interesting from a data POV that cable angle is sill measured in this way, despite there being quicker methods nowadays. This tool was how it was done when this sampling protocol first was done in the 1950s, and for consistency's sake we still do it today. That way we can make valid comparisons in the data collected over many decades. Consistency and data cleanliness are important for good and valid science!] 
+- Once we got the nets back on board, Grace and Annie^[grad students in Décima lab/zoop crew] gave us all a run through on how to clean the nets and process the critters. Many steps involved, thank goodness we've got cheat sheet binders and flow charts to remember everything!
+
+
+::: {layout-ncol=3}
+![The Bongos are in the water!](pics/bongos.jpg){fig-alt="paired Bongo-style nets lowered into the ocean via winch."}
+
+![Not applesauce, this is consolidated zooplankton. Note the wellies and buckets. So. Many. Buckets.](pics/not_applesauce.jpg){fig-alt="close up shot of pink/brown zooplankton mush, with boots and buckets below in the background"}
+
+![Part of a gelatinous siphonophore, with some of it's most recent meal inside (the yellow flecks)](pics/sample.jpg){fig-alt="a close up shot of a gelatinous zooplankton"}
+:::
+
+---- 
+
+Other bits from today:
+
+- Revelle actually turned around and headed back to shore--there was an important sensor that was forgotten, so we turned back and got close to coast of La Jolla by Scripps Pier while a speed boat ran out the goods to us.^[I guess I got to see us leave land a second time today? To make up for the first departure?]
+- Had our first ship safety drill! Fire and abandon ship drills. Had to don the survival suits.^[These are both easier and harder to put on than regular wetsuits. Easier because they are roomier in the body so it goes on easy. MUCH harder because you have to squash your head and face into the top bit, then zip and velcro it up while your hands are encased in some camel-toe-style mittens. I love mittens but these mittens have very little going for them in the dexterity department.]
+
+
+Perhaps more to come in this log later today; we're testing the MOCNESS after dinner and will have a whopping TEN nets to process, opposed to the two on Bongo. 
+
+For now, I'm off to find my sea legs. Or maybe take a nap. TBD.
+
+----
+*Sea fun fact of the day:* The [siphonophore](https://en.wikipedia.org/wiki/Siphonophorae) above is more specifically a [chelophyes appendiculata](https://sio-legacy.ucsd.edu/zooplanktonguide/species/chelophyes-appendiculata). It's not the whole critter, rather it is just one of the bells, so roughly half-ish the creature. Siphonophores are colonial species that tend to chain together, but they are also super fragile so we tend to collect bits and bobs when we drag them up in the nets.
 
 :::
