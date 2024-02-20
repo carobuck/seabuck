@@ -56,5 +56,17 @@ A few other assorted tidbits:
 ----
 *Sea fun fact of the day:* Giant tangles of rope are called [wuzzles](https://dsaocean.com/what-a-wuzzle/). You've got to watch out for them when removing the tag lines^[These are ropes on either side of the instrument to guide it safely into the water, and prevent it from swinging around when the winch lifts it up. Super, super essential when you're standing on the back of a boat in moderatly high swells and don't want some very heavy instrument to come hit you. Side note: the tag lines to come back in are really fun, because it's like fishing when you've gotta clip the rope onto the instrument coming out of the sea with these long hook grabber things.] on instruments being deployed into the water. Basically don't whip the lines out of the instrument too fast causing the rope to knot up on itself.
 
+----
+
+[Addendum: Another sunset]{.subheaders}
+
+::: {layout="[63,-1,36]"}
+
+![Red sky at night is sailor's delight^[and red sky in morning, sailors take warning]](pics/sunset2.jpg){fig-alt="image of sunset over the ocean, with streaky clouds."}
+
+![\^\^delight](pics/sunset3.jpg){fig-alt="caro with the sunset"}
+
+:::
+
 :::
 
