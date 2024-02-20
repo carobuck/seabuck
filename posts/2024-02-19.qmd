@@ -1,0 +1,60 @@
+---
+title: "[Sea Log: 2024-02-19]{.subheaders}"
+draft: false
+date: 2024-02-19
+---
+
+::: {.div .bodyfont}
+
+Hello again. I missed a day due to several factors: namely because I'm on night shift for nets^[I'll figure out ideal times to write and post stuff. There might be a lot of midnight writing when the MOCNESS is being dragged for 4 hours.], feeling ill^[To everyone who asked: yep, I get seasick. Or at least a little bit queasy when the swells get big. And they are definitely at least moderate/high. Stay tuned to see if I can access the ship log data for a fun data viz. Fingers crossed I'm over the hump for feeling nauseous.], and there are tons of other things to look at^[I could truly stare at the ocean forever. Merely a bonus if you see critters out there too.] and/or do.^[If you hang around, you'll get pulled in to tagline equipment or count up pyrosomes. At least that's what today's lingering led to.]
+
+Don't fret thinking I left you with no fun facts from yesterday. That would be so cruel (and unlike me).
+
+First up, some math:
+
+Zooplankton = zoo (must eat other things) + plankton (drifters^[meaning they are too small/not strong enough to swim against the water current]).
+
+So we're collecting a bunch of animal drifters. Side note: Phytoplankton are light drifters by similar math. 
+
+---- 
+
+Let's talk nets and specimen collection.^[Previously I said I was throwing stuff off the side of the ship and collecting it again. Now I know that we aren't really throwing anything, we are in fact VERY CAREFULLY lowering stuff into the water, usually with the help of a winch. And we aren't just willy nilly collecting stuff. Everything is very carefully split and labeled. For the future people who'll analyze this data and wonder what the heck we did on this ship.]
+
+I regularly tote around electrical tape^[this stuff is used EVERYWHERE, and holds up in the seawater much better than I'd expect. It is also much preferable to duck tape, which apparently degrades and makes a sticky mess in the salt and sun. Sorry brother, I know you and duck tape have a thing.], zip ties, special chemical resistant pens, and a knife. These are the essential tools of science. Additionally helpful is the ability to quickly tie a bowline knot^[ty, sailing last summer], follow directions quickly and listen well. The res tech taught me how to tie up the lines today for safe-keeping in between instrument deployment and recovery and I gotta make them proud with my knot skills. Agility and balance are also good to have in your back pocket.^[Have I mentioned the swells yet?]
+
+Last night we had our first official Bongo and MOCNESS deployment and processing. Both went well, despite being done in pouring rain. It was kind of exciting and thrilling I must say! Lowering the cod ends into the water off the back of the boat--what a time to be alive! Bummer we didn't get tons of critters in last night's hauls. But the night shift crew worked great together and we got the nets processed and cleaned before the clock struck 0300!^[ty to the rain for the rinsing assistance. Also thank you to my rain pants for being the real MVP]
+
+To note: the MOCNESS is a BEAST to assemble.^[No joke that it's named after the Loch Ness *monster*] The metal wires and balls require much effort to get set up, with a lot of pushing on the nets and frame to get it compacted enough to click together.^[Reminder, the MOCNESS is a series of 10 nets stacked on top of each other in a metal rectangular frame. They deploy (open) one at a time depending on what depth of the ocean you're dragging the frame through.] Comically, setting up the net is called 'cocking' so if anyone asks you if you want to 'cock the moc' respectfully decline^[Especially if the nets are wet. Cocking is much harder if you mess up on the first deployment and the nets are sopping wet with seawater for the second attempt. Not that I know from experience or anything.] unless you know what you're getting into.
+
+
+::: {layout-ncol=3}
+![Lining up the MOCNESS cod ends (the gray cylinders where the critters are collected) before deployment](pics/moc_prep.jpg){fig-alt="Image of mocness net getting prepared to deploy. Nets are splayed on deck with cod ends attached."}
+
+![Getting ready to put the MOCNESS in the water. Note the winch holding it up from the top, and orange taglines on the side to guide it into the ocean safely.](pics/moc_launch.jpg){fig-alt="Net being lifted into the water, off the back of a ship. two people in image, one guiding the winch and other manning a tag line."}
+
+![A handful of pyrosomes from Net 7 of today's MOCNESS haul. They are harder than they look (not squishy), and I've been told taste like salty boogers.](pics/pyrosome_hand.jpg){fig-alt="a close up shot of a few pyrosomes in a hand. More pyrosomes in the background."}
+:::
+
+A few other assorted tidbits:
+
+- Figuring out how to sleep in rolling seas is interesting. I usually sleep on my left side but I think I do better on my right depending on the swells. Having an extra pillow on either side helps too.^[To all my haters who think my pillow usage is excessive: deal with it.] The waves are kinda soothing if you let them be soothing. 
+- Lol the treadmill is essentially on hydraulics and is very wacky to walk on because each foot moves separately from the other. I've never held onto a treadmill so dearly for life. 
+- Storm rolled through and it was AWESOME up on the bow in the rain. Wild to watch us ride up and down in the waves.
+- The front deck is my favorite place to read. The sun was shining today and so lovely to finish a book. Definitely need to remember to bring my hat up there next time. 
+- Saw even more dolphins (maybe 20 in the pod?) frolicking around in the ship's wake yesterday during transit to the next station. 
+- Learned a lot more about the bigger-picture science we're doing out here. Pretty neat stuff. I'll get around to throwing together a summary on a new page eventually. 
+
+::: {layout-ncol=2}
+
+![First sunset at sea!](pics/sunset_1.jpg){fig-alt="image of sunset over the ocean, with streaky clouds."}
+
+![Every MOCNESS haul requires 50 petri dishes for biomass samples. Obviously carefully labeled. Don't use the wrong pen like I did.](pics/petri.jpg){fig-alt="50 labelled petri dishes aligned on a desk"}
+:::
+
+
+
+----
+*Sea fun fact of the day:* Giant tangles of rope are called [wuzzles](https://dsaocean.com/what-a-wuzzle/). You've got to watch out for them when removing the tag lines^[These are ropes on either side of the instrument to guide it safely into the water, and prevent it from swinging around when the winch lifts it up. Super, super essential when you're standing on the back of a boat in moderatly high swells and don't want some very heavy instrument to come hit you. Side note: the tag lines to come back in are really fun, because it's like fishing when you've gotta clip the rope onto the instrument coming out of the sea with these long hook grabber things.] on instruments being deployed into the water. Basically don't whip the lines out of the instrument too fast causing the rope to knot up on itself.
+
+:::
+
