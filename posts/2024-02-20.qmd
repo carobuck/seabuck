@@ -1,0 +1,51 @@
+---
+title: "[Sea Log: 2024-02-20]{.subheaders}"
+draft: true
+date: 2024-02-20
+---
+
+::: {.div .bodyfont}
+
+We've hit the point in this journey that the wacky sleep schedules (and/or lack of sleep for some people^[not me, this boat be LULLING me to sleep every night]) mean filters are lowered and giggles have gone up. Not all the laughs are nerdy jokes but a not insignificant ones are and I'm here for it. Don't ask how long we talked about torque last night.^[If you have a suggestion for how to better adjust the winch block or wire or bongo net weight, the submission box has been closed now. Thank you for your interest nonetheless.]
+
+Amidst the laughter, I'm also learning more about my crew and sci party mates. Like, Grace^[Heyo Grace!] is very excellent at accents and they come out most unexpectedly, especially past midnight. Sam is passionate about physics and surfing and also some Disney movies make him a little emotional.^[Let's be honest, a good Disney short makes us all shed a lil tear or two] Everyone is at least a little nerdy and/or quirky out here and I expected nothing less. My nerdy data side is also starting to come out--last night I got to help with some stats, R code, and building websites. I'm a happy camper.^[Or should I say sailor??] 
+
+I got my hands on some of the cruise data and am excited to dig into what's in there. The data docs are full of acronyms and I recognize very few of them... so this should be interesting. Once I figure out what data I actually want, I'll have to parse it, so this might be a bit of a process. Time will tell.
+
+I've also started a new list: things said that make total sense^[or at least 87% sense] on a ship, but sound horrific out of context. The first entry: "You can hose and I'll be hosed."^[The only context you're getting is that we're talking about washing nets and donning the appropriate level of waterproof rain gear.]
+
+Have settled into more of a routine:^[And actually have some free time to let my mind wander and/or read books! Now that we're not running straight up on the learning curve treadmill]
+
+- Sleep 0300-1100
+- Lunch
+- Read, use the janky hydraulic treadmill, journal, etc. 
+- Linger around and help out with some *science*
+- Chat with fellow shipmates
+- Dinner
+- Nets, processing, or helping out with whatever other instruments are getting towed in the water 
+- Catch up on emails, then rinse and repeat
+
+I've talked about net processing a fair amount. Let's get into a little more detail about what goes on, now that I have a better idea of what I'm doing. Basically, when we pull up the nets,^[using a winch, because we're dragging these relatively deep in the ocean, at least 300m, and they have weights attached] we take the cod end samples and process them differently depending on what sorts of analysis we want done. We will split the samples (usually into 50/50 splits, or 25/37.5/37.5 splits), then some get preserved in ethanol^[better for analyzing DNA later], some in formalin^[a type of formaldehyde, used for looking at the critters' morphology and body structures later], and some just get frozen^[the -80 freezer is the *warm* freezer. Liquid nitrogen is for the real quick freezing] in petri dishes for biomass or gut fluorescence analysis. Everything gets preserved and/or frozen together, except for pyrosomes. If we find those guys we pull them out to photograph and freeze separately. A big part of processing the samples (perhaps the most time intensive?) is the size fractioning (aka fracing), where we use different sizes of mesh filters to separate the critters from big (>5mm) to small (0.2-0.5mm). When size fracing, you want to move quick but also be careful to not rip the critters from limb to limb... which is tricky when some of the creatures are very much the texture of snot. Try pulling snot out of a filter, I dare ya.
+
+Of course, the final step of processing is to clean the nets, meaning we hose them down with seawater if the res techs have told us we're using too much fresh water, or with fresh water if the nets have started to smell a little rank.^[Anything "ocean" or "sea breeze" scented in stores is a lie. The ocean smells rank lemme tell ya. Give zooplankton scented candles to your enemies, not your friends.]
+
+Fire pit vibes lol. Include the pic.
+
+start reading a new book, logbook for grace and it's great
+
+::: {layout-ncol=2}
+
+![The arctic heat lamp counts as the firepit. Where are our marshmallows??!?](pics/sunset_1.jpg){fig-alt="image of sunset over the ocean, with streaky clouds."}
+
+![Every MOCNESS haul requires 50 petri dishes for biomass samples. Obviously carefully labeled. Don't use the wrong pen like I did.](pics/petri.jpg){fig-alt="50 labelled petri dishes aligned on a desk"}
+:::
+
+
+
+----
+*Sea fun fact of the day:* navy is concerning for our stuff. like apparently stuff has hit a sub? they let us stay though till 6am phew. 
+
+
+
+:::
+
