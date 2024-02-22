@@ -1,0 +1,37 @@
+---
+title: "[Sea Log: 2024-02-21]{.subheaders}"
+draft: true
+date: 2024-02-21
+---
+
+::: {.div .bodyfont}
+
+Today was chillest of chill, with excellent sea vibes. The swells woke me up so I knew we were either in a storm or cruising. Got above decks and turns out we were in transit^[aka moving at full speed, roughly 11 knots, aka not that fast. But Revelle's design is optimized to hold position for science and putting stuff over the side, rather than moving super fast through the water.] to our next study location. Had a fair bit of wind that added to the waves and motion of the ocean.^[Weeee! Thank goodness the seasickness has passed]
+
+No nets today or tonight, instead there were a series of special science studies.^[a series of BBLs, aka doing a bunch of water samples closer to shore (with the CTD rosette), at the benthic boundary layer (BBL)] Only some of the science party is directly involved in those, so the rest of us hung out, played games,^[SO MUCH BANANAGRAMS] ate good food, talked hot goss, watched the sunset, etc. I also played with some data, figuring out how to do multiple scales on the x-axis^[I know, I know, this is not always ideal data visualization practice, but sometimes it suits the context and need and this is one of those situations. Also got to use a ggplot geom I've never used before--[geom_ribbon](https://tidyverse.github.io/ggplot2-docs/reference/geom_ribbon.html)] and digging into the cruise data some more.
+
+Also shoutout to Richard, he made gluten-free chocolate cake at dinner and it was a most excellent cross between a brownie and chocolate graham crackers.
+
+::: {layout-ncol=2}
+
+![Bring your forks back to the mess, and don't throw them away. Important things for us all to remember.](pics/forks.jpg){fig-alt="three people sitting around a ship deck in adirondack chairs."}
+
+![Hi, land^[Roughly off the coast of Point Buchan]!](pics/land.jpg){fig-alt="image of fog lingering over the steely gray ocean"}
+
+![CTD rosette^[This thing has a sensor at the bottom that measures Conductivity, Temperature and Depth. And the Niskin tubes all around take water samples at different depths.] going in at sunset + hi moon](pics/ctd_sunset.jpg){fig-alt="three people sitting around a ship deck in adirondack chairs."}
+
+![We love a good sunset](pics/sunset4.jpg){fig-alt="image of fog lingering over the steely gray ocean"}
+
+:::
+
+----
+*Sea fun fact of the day:* I crowd-sourced^[ty to Benjamin and Jamie] the fun facts today and here's what I've got for you:
+
+- Barnacles have largest penis-to-body size of all critters in the animal kingdom^[Side note, blue whales have the largest generally of all animals.]
+- Scripps beach is the only naturally regenerated beach in San Diego^[Interestingly, there's a lot of research that goes into ['beach nourishment'](https://scripps.ucsd.edu/news/just-add-sand) and figuring out if you put sand somewhere, how long does it stay there and where does it go after?]
+- Pyrosomes poop, and you can watch them do it. It also doesn't sink as one might expect it to in the ocean.^[We watched pyrosomes poop last night; Grace is passionate about pyrosomes (and their poop) so I'm sure I'll be getting more content here. Stay tuned.]
+
+:::
+
+
+
