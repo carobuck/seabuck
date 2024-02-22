@@ -1,6 +1,6 @@
 ---
 title: "[Sea Log: 2024-02-21]{.subheaders}"
-draft: true
+draft: false
 date: 2024-02-21
 ---
 
