@@ -1,0 +1,47 @@
+---
+title: "[Sea Log: 2024-02-22]{.subheaders}"
+draft: false
+date: 2024-02-22
+---
+
+::: {.div .bodyfont}
+
+Today was also a very excellent chill day,^[We're still close to shore, in the Santa Barbara basin, taking shallow water BBL samples. So, we're not on our usual net schedule.] mostly spent looking at cool things above, below, and around me.^[There's a lot to look at out at sea, lemme tell ya.] Cool things include: sunrise, whales,^[Maybe orcas? Maybe gray whales? Maybe both? My animal identification skills aren't necessarily professional and I really only saw the water spout and tail flippers] sunset, rocket launch^[Did a SpaceX rocket fly right over us? Yep. Was it cool? Yep. Was it also hella windy and I have the most gritty video ever? Also yep.], sea aliens, etc. etc.
+
+I also spent my free time reading, journaling, deploying some equipment^[Finally got a manta tow net in the water. And sent the DPI in for another undulating journey in the ocean.], and helping sis with calculus homework.^[I know, I'm a nerd, we've already established this fact. Moving along now!<br/>ps: you're welcome sis.]
+
+Tomorrow will be a long day:^[Will I nap? That is indeed the question to be asking.] I'm getting up to see the sunrise again, and then we've finally got nets at night back on the schedule. Woohoo! 
+
+----
+
+::: {layout-ncol=3}
+
+![The manta valiantly takes to the seas!^[And by takes to the seas, I mean we very precariously lowered this thing over the side of the boat and then watched it bob along the surface as we cruised at roughly a knot and a half. Speed demons we are!]](pics/manta.jpg){fig-alt="manta zooplankton net being towed through the ocean"}
+
+![Science and buckets and hard hats go hand in hand](pics/bucket.jpg){fig-alt="pastel rainbow sunset with some streaky clouds over the ocean"}
+
+![Sea aliens!^[Disclaimer: definitely not actual aliens. At least, as far as we know.]](pics/scope_aliens.jpg){fig-alt="image of through a microscope of zooplankton"}
+
+:::
+
+::: {layout-ncol=2}
+
+![Just a simple gal who likes pretty skies](pics/sunrise.jpg){fig-alt="caro on the left corner looking out over the ship and the sun rising over the ocean."}
+
+![Seeing the sunrise AND sunset in the same day has good full-circle energy](pics/sunset5.jpg){fig-alt="pastel rainbow sunset with some streaky clouds over the ocean"}
+
+![The stars are coming out! Moon is nearly full and thus bright, so stars not quite as bright as they could be^[I am not a pro photographer, my night shots leave something to be desired, but hey, I tried. The stars looked cool so close your eyes and use your imagination if you must.]](pics/stars.jpg){fig-alt="image of night sky with stars sprinkled throughout"}
+
+![Just outside of the safety radius, the rocket flies right over us!^[I know, I know, this is a really thrilling image. In the video I have, the audio is essentially just us asking if something cool is supposed to happen still??]](pics/rocket.jpg){fig-alt="image of fog lingering over the steely gray ocean"}
+
+:::
+
+----
+*Sea fun fact of the day:* I watched one of the space aliens^[a type of polychaete sea worm, specifically] poop today under the microscope and it was very cool. Since these critters are see-through, you can see them literally wriggling their insides to get brown stuff out. Maybe this is TMI, but I didn't even know most of these creatures existed before coming on this trip, so watching stuff like this live is fascinating. 
+
+I must go to sleep now, but if you'd like some light reading, please feel free to [read up on the bowel movements of space alien worms](https://pubmed.ncbi.nlm.nih.gov/26439262/).
+
+:::
+
+
+
