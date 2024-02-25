@@ -1,6 +1,6 @@
 ---
 title: "[Sea Log: 2024-02-24]{.subheaders}"
-draft: true
+draft: false
 date: 2024-02-24
 ---
 
@@ -8,30 +8,44 @@ date: 2024-02-24
 
 Processing the deep MOCNESS took a while so that meant I went to bed at about 0500. And completely forgot that we have weekly drills aboard ship so that was a pleasant little alarm to wake up to just past noon. I suppose it was a realistic experience having to wake up bleary eyed and pull on long pants, long shirt, hat, and grab my go-bag and life jacket.^[I was a little late to muster, so I'll need to be speedier next time. Though ideally I won't also be using the drill as my wake-up call.]
 
-Absolutely went back to bed right after the drill, then when I got up a second time, we hung out, played cribbage,^[I won with a stellar 17 point hand at the end.] read books, etc. 
+Absolutely went back to bed right after the drill, then when I got up a second time, some sci party pals and I hung out, played cribbage,^[I won with a stellar 17 point hand at the end.] read books, etc. 
 
 Rallying for dinner in a few minutes, then it'll be time for some nets! Woohoo!^[No MOCNESS tonight though, so it won't be quite so late a night. Phew.]
 
+----
+
+[Sunset intermission:]{.subheaders}
+![Ta-da!](pics/sunset7.jpg){fig-alt="rainbow sunset, with golden sun glow, over the pacific ocean"}
 
 ----
+
+Aaaaand we're live and back with the science, folks! Tonight we did three nets: a manta, a Bongo and a salp net.^[I didn't get to see what came up in this one; was busy processing the Bongo.] The manta absolutely takes the cake as **Coolest Net of the Night** tonight. This thing just skims the top of the ocean,^[the top six inches, to be specific] and still we hauled in some very neat-o things in the cod end! Most excitingly: a big^[okay, maybe not 'big'. let's go with medium-sized? Or maybe, according to Grace, she's "big for the circumstances?"] purple jellyfish! 
+
+Later, Hannah came around with some other tiny jellies she and Russ found in the salp net. A handful of tiny [Liriope tetraphylla](https://en.wikipedia.org/wiki/Liriope_tetraphylla)^[Which, c'mon, is a most lovely name for a jelly.] that each have one long arm^[tentacle?] called a manubrium that is very mobile, like an elephant trunk. Its rather hard to photograph things that are very nearly clear, but if you look close you can see the manubriums on the tiny lil friends.
+
+Last (science) thing of the night: the array was wrangled and brought aboard once again. Usually they do this wrangling^[literally wrangling; Sven and Stukel throw hooked ropes overboard to capture this thing as we pull up alongside it] while we're doing MOCNESS processing but we didn't have a MOCNESS net tonight so I got to watch. The array is essentially a long chain of cables and bottles that drift around the ocean and we follow it for a cycle's worth of sampling and science. Then we'll haul the array out, process the water in its bottles, transit to the next station and redeploy the array. It was neat to watch tonight, it's much longer than I expected and looks like a workout to haul out!
 
 ::: {layout-ncol=3}
 
-![The manta valiantly takes to the seas!^[And by takes to the seas, I mean we very precariously lowered this thing over the side of the boat and then watched it bob along the surface as we cruised at roughly a knot and a half. Speed demons we are!]](pics/manta.jpg){fig-alt="manta zooplankton net being towed through the ocean"}
+![Our prized jelly! For reference, this is a quart-sized jar](pics/purplejelly.jpg){fig-alt="purple jellyfish in a jar"}
 
-![Science and buckets and hard hats go hand in hand](pics/bucket.jpg){fig-alt="pastel rainbow sunset with some streaky clouds over the ocean"}
+![The lil liriope tetraphylla](pics/liriope_jelly.jpg){fig-alt="small vial of clear jellyfish"}
 
-![Sea aliens!^[Disclaimer: definitely not actual aliens. At least, as far as we know.]](pics/scope_aliens.jpg){fig-alt="image of through a microscope of zooplankton"}
+![Array is being hauled aboard, with an eager audience watching](pics/array.jpg){fig-alt="scientific instrument being hauled aboard ship by several people in life vests and hard hats"}
 
 :::
 
-
-
+Finally, ended the night with talking websites and fun Quarto formatting. A solid day all around, once I was fully awake (and not by the whims of an alarm).
 
 ----
+
 *Sea fun fact of the day:* We are on a *ship* not a boat. A boat is something^[smaller aquatic craft] you put on a ship.
 
+----
+
+::: {layout-ncol=2}
+![](pics/googleloc.png){fig-alt="image of through a microscope of zooplankton"}
+
+PS: I think it's hilarious that Google tries to label the location of all the photos I'm taking. All of them are "unknown location" in the middle of a splotch of blue. They ain't wrong... but also lol. 
 :::
-
-
-
+:::
