@@ -8,6 +8,7 @@ website:
       - href: about.qmd
         text: "[FAQ]{.subheaders}"
   google-analytics: "G-KYMFWQFDG3"
+  favicon: posts/pics/wave-favicon.png
 
 format:
   html:
