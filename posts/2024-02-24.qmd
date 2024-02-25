@@ -1,0 +1,37 @@
+---
+title: "[Sea Log: 2024-02-24]{.subheaders}"
+draft: true
+date: 2024-02-24
+---
+
+::: {.div .bodyfont}
+
+Processing the deep MOCNESS took a while so that meant I went to bed at about 0500. And completely forgot that we have weekly drills aboard ship so that was a pleasant little alarm to wake up to just past noon. I suppose it was a realistic experience having to wake up bleary eyed and pull on long pants, long shirt, hat, and grab my go-bag and life jacket.^[I was a little late to muster, so I'll need to be speedier next time. Though ideally I won't also be using the drill as my wake-up call.]
+
+Absolutely went back to bed right after the drill, then when I got up a second time, we hung out, played cribbage,^[I won with a stellar 17 point hand at the end.] read books, etc. 
+
+Rallying for dinner in a few minutes, then it'll be time for some nets! Woohoo!^[No MOCNESS tonight though, so it won't be quite so late a night. Phew.]
+
+
+----
+
+::: {layout-ncol=3}
+
+![The manta valiantly takes to the seas!^[And by takes to the seas, I mean we very precariously lowered this thing over the side of the boat and then watched it bob along the surface as we cruised at roughly a knot and a half. Speed demons we are!]](pics/manta.jpg){fig-alt="manta zooplankton net being towed through the ocean"}
+
+![Science and buckets and hard hats go hand in hand](pics/bucket.jpg){fig-alt="pastel rainbow sunset with some streaky clouds over the ocean"}
+
+![Sea aliens!^[Disclaimer: definitely not actual aliens. At least, as far as we know.]](pics/scope_aliens.jpg){fig-alt="image of through a microscope of zooplankton"}
+
+:::
+
+
+
+
+----
+*Sea fun fact of the day:* We are on a *ship* not a boat. A boat is something^[smaller aquatic craft] you put on a ship.
+
+:::
+
+
+

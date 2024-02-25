@@ -1,0 +1,54 @@
+---
+title: "[Sea Log: 2024-02-23]{.subheaders}"
+draft: false
+date: 2024-02-23
+---
+
+::: {.div .bodyfont}
+
+I'm sure you were wondering--are they going to have ANOTHER chill day on that ship out there?! Well fret not, we're back on nets at night. Three tonight, in fact! A salp, Bongo and deep MOCNESS.^[Meaning it goes down 1000m deep into the ocean. The shallower MOCNESS tows we do go about 500m deep.]
+
+The essentials for night shift:
+
+- Late night ice cream and/or midrats^[All the leftovers from meals go into a special fridge labeled "midrats" that anyone can go through if they're feeling peckish. This is especially nice since nearly everyone onboard has some form of shift work and many of those shifts aren't necessarily conducive to the scheduled mealtimes.] and/or snacks^[There are some good ones right now--veggie chips and spicy dried mango, among the other usual suspects like trail mix and such]
+- Shared music blends on Spotify^[We all have some overlap, including Don't Start Now; Glad You Came; Dynamite and some Fall Out Boy. This is going to be a hilarious playlist. Can't wait to see how this playlist updates over the next few weeks.]
+- 10 reps for each of the ten MOCNESS nets deployed^[Tonight I was on squats, Sam on pushups and Grace on crunches. I suspect we'll rotate our calisthenics.]
+
+
+We caught a whole bunch of neat stuff in the MOCNESS tonight. Most wild were the deep sea fish eel snake things^[Scientific name,I am not sure. So we're going with something like "fish eel thing"] we caught--Grace says in all of her nets she's never gotten something like this. We caught two, and one was still living!^[Grace would like me to note she was very brave handling it. Especially because the thing was feisty and biting the ruler.] We also pulled up the molted shell of a lobster, a jellyfish, some salps, and a WHOLE BUNCH of small gelatinous critters.^[We normally use 50 petri dishes in total for processing; for this haul we added an extra 7!]
+
+
+----
+
+::: {layout="[63,-1,36]"}
+
+![If I don't give you a picture of the sunset, did the sun really even set?](pics/sunset6.jpg){fig-alt="sunset over the pacific ocean, with some pastel streaky clouds"}
+
+![Note the essentials: carefully labelled petri dishes, rain pants, ice cream, friends, and more snacks](pics/nightessentials.jpg){fig-alt="photo of computer lab with many labeled petri dishes and ice cream in the foreground"}
+
+:::
+
+::: {layout-ncol=3}
+
+![Snails or salps?^[They are salps, the snail looking things are actually their STOMACHS. The rest of the salp is clear and gelatinous, and thus kinda hard to see in the photo.]](pics/salps2.jpg){fig-alt="several clear gelatinous salps in a tupperware of water."}
+
+![The fish snake eel thing!^[As John Mulaney would say, "You're so brave!!"]](pics/snake.jpg){fig-alt="grace holding up a sea fish/snake. Sam holding a tub of water."}
+
+![Fish snake eel thing + molted lobster shell^[And a whole bunch of other zooplankton floating around; that's all the pinkish stuff]](pics/snakebucket.jpg){fig-alt="sea fish snake thing and lobster shell in a white bucket"}
+
+:::
+
+----
+
+PS: the bird box is exactly what it says it is. A box for birds.^[More specifically, if a bird lands on deck at night and looks *confused* we put in the box till sunrise, then we free them back to the wild blue ocean. Aka open up the box, and dump 'em over the side if they don't fly away on their own. We don't let them out at night so they don't get more confused and try to fly back to the bright lights on the ship.]
+
+
+----
+*Sea fun fact of the day:* Revelle's propellers^[See ['Propulsion'](https://scripps.ucsd.edu/ships/revelle/handbook/section-4-ships-and-scientific-equipment-description) section for more details] can turn all the way around, so if we absolutely had to, we could stop within roughly a ship's length^[Naturally, this varies based on how fast we were going before the sudden stop was necessary.] by turning both propellers 180 degrees in the opposite direction of travel.
+
+Bonus fun fact: We usually cruise through the ocean at 11-12 knots^[unless we're towing something for science; in that case we travel much slower at something around 1.5 knots, or hold still in position], but Revelle's max speed when she first left the shipyard in 1996 was 16 knots! Speedy!^[All four engines were running; full throttle up on the bridge.]
+
+:::
+
+
+
