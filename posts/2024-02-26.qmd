@@ -1,0 +1,55 @@
+---
+title: "[Sea Log: 2024-02-26]{.subheaders}"
+draft: false
+date: 2024-02-26
+---
+
+::: {.div .bodyfont}
+
+This is a joint post from yesterday and today. Because honestly not tons has happened out of the ordinary;^[Or perhaps I've gotten a bit used to life out here at sea. Though I do miss my land life and pals. It's been just barely over a week at sea and it feels like I've been gone ages.] just vibes, nets, snacks, looking at the sea and/or sky, and sleeping.
+
+Yesterday we had a standard ring net, Bongo, and then a MOCNESS. A lower biomass haul^[i.e. fewer critters] last night, and nothing *too too* unusual. Perhaps coolest was the big^[and relatively intact; we actually get tons of these things in our nets... but usually in bits. Their jelly bodies don't hold up so well to be forcefully dragged into a net and/or mesh. So I've picked tons of their gooey snot-texture bodies out of mesh the past week. And I strongly suspect that will continue.] chunk of *something* we got. I (mistakenly) thought this was some kind of salp^[if nothing else, I've learned that my critter identification skills are non-ideal. Like, I saw some mammals today and I'm pretty sure they were whales but I honestly couldn't tell you for sure, and definitely couldn't tell you the type of whale.], BUT after further discussion with Grace it is likely a hefty chunk of a big boi. So this isn't the whole creature, but is likely half-ish of a siphonophore; perhaps the [posterior nectophore of a Chelophyes appendiculata](https://bodegahead.blogspot.com/2013/04/swimming-bells.html).^[Still cool to see a bigger chunk of these critters; and TBH finding one is a surprise sometimes when they plop out of the buckets because seeing clear things in clear water...isn't always clear...]
+
+Last night we also found many smol Velella velellas in one of our nets. They kinda look like little kites that sail around in the water, thus their alternate names of "sea raft" and "little sail." Last June when I visited San Diego for sister's graduation, we found a bunch of (larger) Vellela velellas but I had no idea what they were. Who'd've thought a few months later I'd be out on a ship collecting them with a bunch of zooplankton nerds!? Not me, that's for sure. 
+
+The highlight of tonight's net was definitely the chonky pyrosome we saw drift directly into our Bongo net as it descended into the deep. We all took bets on whether or not it'd actually be in there when we hauled the nets back aboard, and I'm delighted to report that I was correct. Chonky Boi Pyrosome made it to the depths^[~212m, by the rough math we did using the wire angle and amount of wire paid out] and back, and then obviously starred in his own photoshoot. To be fair, pyrosomes can grow to be huge, but so far on this cruise the biggest we've gotten are 2, maybe 3, inches in length. Chonky Boi is probably almost 2 inches thick!
+
+----
+
+::: {layout-ncol=3}
+
+![Most likely the posterior nectophore; squish level is deceiving, it is firmer than it looks](pics/nectophore.jpg){fig-alt="posterior nectophore bell of a siphonophore, held by hand in purple gloves"}
+
+![A Velella velella^[aka 'By the wind sailor'] found last summer on the beach in La Jolla](pics/manowar.jpg){fig-alt="rainbow sunset, with golden sun glow, over the pacific ocean"}
+
+![A thiccc^[This is the proper scientific term. I don't make the rules.] pyrosome, standard-sized ladle for scale](pics/chonkyboi.jpg){fig-alt="a thick pyrosome in a white bucket, being held by a black ladle"}
+
+:::
+
+Also, you may recall that snake fish eel thing we caught on the deep MOCNESS a couple nights ago? Still not totally sure what it is, but we've got a few more ideas: perhaps a [dragonfish](https://www.mbari.org/animal/dragonfish/) or [Pacific viperfish](https://www.mbari.org/animal/pacific-viperfish/)?^[Viperfish seems less likely based on the black coloring of the thing we caught, and its lack of large-ish fins.]
+
+----
+
+[Lab vibes:]{.subheaders}
+
+::: {layout-ncol=3}
+
+![Don't forget to color your gooey guy!!](pics/gooeyguys.jpg){fig-alt="image of wall in lab, with eye wash station and two coloring sheets titled 'gooey guys' for tracking the net hauls"}
+
+![Remember how I said we have a lot of buckets?^[would you believe me if I said this wasn't even all of them]](pics/bucketspile.jpg){fig-alt="Sam standing around with a pile of buckets on the deck of the ship"}
+
+![Dead^[aka formaldehyde. aka NO TOUCH to anything else that ever touches live critters. aka we must be very careful to not cross-contaminate] lab takeover in part of our wet lab](pics/deadlab.jpg){fig-alt="image of a lab table with splitters, filters and a bunch of bottles, all labeled dead"}
+
+:::
+
+I finally found a good black cryo pen^[special cryogenic pens that are extra resistant to the chilly temps we put them through in liquid nitrogen] that actually works.^[and not just this super pale gray nonsense the other ones "write" in] Do I hide the pen? Tape it to the wall? Bedazzle it so we all know which is the *good* one?? Accepting suggestions for how to make these pens last the whole cruise because they are sTrUgGlInG to keep up on the petri dish labels.
+
+----
+
+*Sea fun fact of the day:* [Nectophores](https://www.biologyonline.com/dictionary/nectophore), aka swimming bells, are bell-shaped zooids specialized for swimming. They can contract to move in a coordinated fashion through the water. So, they are the body parts responsible for moving the critter around. 
+
+----
+
+![PS: This cloud was MVP of yesterday's^[Today was cloudy and gray and no sunset :(] sunset.](pics/sunset8.jpg){fig-alt="sunset, with large colorful cloud, over the pacific ocean"}
+
+:::
