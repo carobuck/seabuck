@@ -1,0 +1,60 @@
+---
+title: "[Sea Log: 2024-02-27]{.subheaders}"
+draft: true
+date: 2024-02-27
+---
+
+::: {.div .bodyfont}
+
+When you're not a grad student, just a mere volunteer, out at sea, you tend to have a fair amount of free time.^[And are usually far less stressed than most others in the science party. Like I just get to be out here staring out at the waves and feeling the wind on my face?! Only way to make this more relaxing would be if I had my hammock with me. I'd rig that baby up ASAP.] Today I spent my free time reading, catching up with my mother,^[Hi, ma!] rowing on the rower machine, and I'm pretty sure just staring out at the ocean. A solid afternoon.
+
+Wind picked up today, so we had some white caps and a bit more chop this evening for the nets. DPI^[Deep plankton imager, essentially a very fancy photocopier-style camera of zooplankton/plankton] deployment was cancelled this evening due to the increasing wind speed.^[Hit about 25 knots while we were out there, so it was breezy to say the least.] All the nets turned wind sock style^[[Like this](https://www.youtube.com/shorts/lQTGKIRYO2c), but the nets are way longer, sea-water soaked, and lugging a 70+ lb weight] as we hoisted them out over the side of the boat; basically a very fun catching game to not get hit by the ring, cod end or heavy weight when we hauled each net back in.^[Last net had a bonus gift for me--I was on cod-end-grabbing duty and I got it, then the rest of the net decided I needed a lil sea shower and rained itself over me. What a gift lol] We one regular ol' Bongo that we deployed, recovered, and processed as per usual, and then we did a lot of "fun" nets tonight. By "fun" that means that the critters are (ideally) live when we pull them up, and Moira, Russ, and Grace then fish through the nets to find assorted zooplankton to run experiments with or study under the microscope. Sometimes we're lucky and pull up some real neat stuff in the nets too, so that makes it fun for all of us to see what we'll get. The last net we sent down very deep (1000m of wire paid out), so that one took a loooong time to go down and come back up.^[For reference, the winch usually pays out wire at about 20m/min going down and up on these nets (sometimes a little faster or slower depending on what we're trying to catch, and what the wire can handle based on sea/wind conditions)... so we waited about 50 minutes for this net to go down, and another 50ish for it to come back up. Science is exciting they say!! (For real though, it is neat. Just sometimes it is very slow and one must be patient)]
+
+*OTHER STUFF BELOW. RANDO NOTES*
+
+Oar fish, the silver one, but v tiny usually these things get very big (look up how big. Rest of ppl were v excited for this tiny silver fish)
+
+A couple waves almost wash the deck 
+
+Windy, getting up around 25knots and more(?)
+Breezy to say the least. 
+Lots of "fun" nets (aka we don't have to process them and we kinda just see what cool stuff we can catch and haul in)
+Very windy and thus some exciting wind sock(link here) action on all the nets going in. And then coming out is a fun catching game before they smack the side of the ship (don't wanna smack big metal weight nor cod ends with the fragile friends (critters).
+Moira/russ and grace go fishing around to find things in the nets we haul in
+
+Stargazed, ambled around, caught up on emails while we waiting for it to come back up (last ring net one went deeeeep to 1000m of wire paid out and it took a long while to go down and back up. Yikes)
+
+
+----
+
+[Sunset intermission:]{.subheaders}
+![](pics/sunset9.jpg){fig-alt="rainbow sunset, with golden sun glow, over the pacific ocean"}
+
+----
+
+
+
+::: {layout-ncol=3}
+
+![Some^[*cough* wet lab door *cough*] of the ship doors are really hard to close](pics/harddoors.jpg){fig-alt="three people demostrating how to shut a door. CTD instrument in foreground"}
+
+![](pics/oarfish.jpg){fig-alt="small silvery oarfish sitting in a vial on a workbench table top"}
+
+![Was the deep haul^[that felt like it took FOREVERRRRRRRRRR] worth it?](pics/deephaul.jpg){fig-alt="looking down into a white bucket full of assorted zooplankton and jellies"}
+
+![Grace separates her friends from her non-friends](pics/gracefriends.jpg){fig-alt="woman sitting on ground with a bucket of zooplankton, fishing out the ones she wants to study more closely"}
+
+![Brings new meaning to "jelly jar"^[Side note, if anyone hasn't had the apricot preserves from Trader Joe's or the blueberry jam from Whole Foods, WHAT are you waiting for!? Both make very excellent scone filling. 12/10.]](pics/jellyjar.jpg){fig-alt="clear jar full of jellyfish, sitting on a yellow tabletop"}
+
+:::
+
+PS: Wrangling a hose is possibly my least favorite task to do on deck. I know it's a safety hazard so we've gotta coil it up nice and neat, but it takes forever, will be messed up^[because someone else will inevitably use it] before you can blink three times, and is just plain annoying. My favorite task on deck, you ask?^[To end this on a more positive note?] Definitely prepping the lines for tag-lining, and then coiling them up nice and neat later and tying them off. I guess give me totally bendy things to tie up any day day I'm a happy sailor. Give me semi-rigid flexible things that have a mind of their own? Less happy sailor.^[I'll still coil up the hoses though, don't worry res techs!]
+
+----
+
+*Sea fun fact of the day:* something about oar fish, how big they can grow
+
+----
+
+
+:::
