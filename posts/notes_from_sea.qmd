@@ -22,3 +22,7 @@ Mid sunrise
 
 
 Revelle will be in woods hole 6/11. Capt Wakefield onboarding. Maybe bring parentals and max?
+
+used this for the form submission and event handler to redirect the user after form submit
+https://github.com/levinunnink/html-form-to-google-sheet
+https://github.com/levinunnink/html-form-to-google-sheet/issues/17
