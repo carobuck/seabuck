@@ -1,5 +1,5 @@
 ---
-title: "[Thanks you]{.headers}"
+title: "[Thank you]{.headers}"
 execute:
   freeze: auto 
 ---
