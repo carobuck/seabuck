@@ -1,0 +1,29 @@
+---
+title: "[Ask Us Anything]{.headers}"
+execute:
+  freeze: auto 
+---
+
+----
+
+:::{.div .bodyfont}
+Curious to learn more? Have a question? Ask away! 
+
+Anything about the science, life at sea, the ship, me, one of the other characters I'm on this boat with, etc. etc. 
+
+If I don't know the answer, I'll find someone on this ship who does. Questions to be answered in future log posts.
+
+----
+
+<form 
+  id="SurveyForm"
+  method="POST" 
+  action="https://script.google.com/macros/s/AKfycbzejpH3odsFvLKjBY4Ikm1eShK2yFcG5tGt6bKdS9YYfN_Ud7bLD9UBS7k3vGnQu1ARww/exec"
+>
+  <input name="Question" type="text" placeholder="Ask us anything" required></br></br>
+  <input name="Name" type="text" placeholder="Name (optional)"></br></br>
+  <button type="submit">Submit</button>
+</form>
+<script type="text/javascript"> window.addEventListener("DOMContentLoaded", function() { const yourForm = document.getElementById('SurveyForm'); yourForm.addEventListener("submit", function(e) { e.preventDefault(); const data = new FormData(yourForm); const action = e.target.action; fetch(action, { method: 'POST', body: data, }) .then(() => { window.location.replace('https://seabuck.netlify.app/posts/ty.html') }) }) }); </script>
+
+:::

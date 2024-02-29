@@ -1,0 +1,11 @@
+---
+title: "[Thanks you]{.headers}"
+execute:
+  freeze: auto 
+---
+
+::: {.subheaders}
+
+Best fishes, we'll answer your question soon!
+
+:::
