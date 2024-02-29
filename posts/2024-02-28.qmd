@@ -1,0 +1,41 @@
+---
+title: "[Sea Log: 2024-02-28]{.subheaders}"
+draft: false
+date: 2024-02-28
+---
+
+::: {.div .bodyfont}
+
+I decided we needed some spice for this log,^[I can't just keep telling you about how I read and then stare out at the ocean. Staring at the ocean did pay off today though; saw a bunch of dolphins playing in the ship's wake just before dinner.] thus I have done two things to add zest:
+
+1. Throw on some tunes^[Tonight it was Pitbull], then dance your heart out on deck while you wait for your nets. Make sure to wear full rain gear, rain boots, PFD safety vest, and hard hat to complete the look. You'll know you're doing it right when the winch operator calls you out for sick moves over the loudspeaker.^[If you were watching any of the ship cameras in the galley or computer lab, you're welcome for the entertainment.]
+
+2. Added an AMA^[Technically, an AUA page, because you can collectively ask *us* anything. Where *us* is anyone aboard this ship.] page to this site. So please holler with any and all questions for us. [Ask away!](https://seabuck.netlify.app/ama)^[Questions will likely be answered in future logs, but no promises.]
+
+----
+
+We transited to our third station for most of the day today. It's furthest out from shore (about 300 miles) so there's likely fewer critters out here to get dragged up in our nets. This was true tonight--the MOCNESS was a pretty light haul, so we were able to process super speedily and get everything cleaned up and ready to go for the day shift crew.^[We washed the nets for youuuu! In fresh water even!]
+
+While it was definitely a light haul on biomass tonight, we did manage to drag up some sort of angler-adjacent fish. We're pretty sure its got a light for bioluminescence and it came from the net that was open from 400-500m deep. Not 100% sure what it is, but I'll ask around and update if I find out more. 
+
+----
+
+::: {layout="[63,-1,36]"}
+
+![Did we do an entire photoshoot with this thing? Absolutely.](pics/groupangler.jpg){fig-alt="four people posing with a black fish, held up by tweezers."}
+
+![Always fun catching live things.^[Grace would like me to remind everyone that we are here for the *zooplankton*, NOT the vertebrates and big things.] Makes it interesting dumping out the cod ends!](pics/angler.jpg){fig-alt="black fish in water in a splitter container."}
+:::
+
+
+----
+
+*Sea fun fact of the day:* While waiting for the deep MOCNESS to come up, we talked about some less-commonly-used words,^[Fret not: we (Grace/Sam/me) also did our 10 calisthenics for each net dropped.] such as fun ones like [apricity](https://www.merriam-webster.com/wordplay/winter-words)^[This one comes from Sam, who got it from his aunt. So thanks, Sam's aunt!] meaning "the warmth of the sun in winter." Feel free to drop this in your casual conversations today.
+
+----
+
+
+:::
+
+
+
