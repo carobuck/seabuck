@@ -24,6 +24,6 @@ If I don't know the answer, I'll find someone on this ship who does. Questions t
   <input name="Name" type="text" placeholder="Name (optional)"></br></br>
   <button type="submit">Submit</button>
 </form>
-<script type="text/javascript"> window.addEventListener("DOMContentLoaded", function() { const yourForm = document.getElementById('SurveyForm'); yourForm.addEventListener("submit", function(e) { e.preventDefault(); const data = new FormData(yourForm); const action = e.target.action; fetch(action, { method: 'POST', body: data, }) .then(() => { window.location.replace('https://seabuck.netlify.app/posts/ty.html') }) }) }); </script>
+<script type="text/javascript"> window.addEventListener("DOMContentLoaded", function() { const yourForm = document.getElementById('SurveyForm'); yourForm.addEventListener("submit", function(e) { e.preventDefault(); const data = new FormData(yourForm); const action = e.target.action; fetch(action, { method: 'POST', body: data, }) .then(() => { window.location.replace('https://seabuck.netlify.app/ty') }) }) }); </script>
 
 :::
