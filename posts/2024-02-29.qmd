@@ -1,0 +1,53 @@
+---
+title: "[Sea Log: 2024-02-29]{.subheaders}"
+draft: false
+date: 2024-02-29
+---
+
+::: {.div .bodyfont}
+
+Currently waiting to pull the DPI back on deck (once it finishes its undulations and picture-taking of assorted plankton/zooplankton/whatever else floats past its cameras), so it's a late night but not quite as late as last night. Though we processed the deep MOCNESS speedily, I still went to bed at about 0515. Thus I slept most of today. 
+
+We're still far out from shore, so we're seeing less biomass in our nets; tonight we had a ring net^[for funsies] and a Bongo.^[for proper sample processing] Most excitingly, we nabbed another one of those fish eel snake things in our Bongo net (aka most likely a black dragonfish). We of course had a full photoshoot with it and debated who should get to keep it as a desk pet.^[Because one of [these dudes](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ_4FamFUBtfOWefVUyfMgROMQLLFprjNR9I32i6QsMAmdBz-F) is everyone's dream desk pet, right!?] 
+
+Also found my new favorite spot^[If I tell you where it won't be a secret anymore] to hang out on deck and watch the world (ocean) go by. Today's view included a most excellent rainbow, and some ocean waves.^[no one is surprised]
+
+----
+
+If you want to see the dragonfish, check out his most excellent last meal, when he chomps down on all the zooplankton caught with him: [video link](https://photos.app.goo.gl/1apyb71n2mNeKiw9A)
+
+----
+
+::: {layout-ncol=2}
+
+![Not all the way across the sky, but acceptable rainbow nonetheless.](pics/rainbow.jpg){fig-alt="rainbow in the sky, overlooking the stern of the ship"}
+
+![I suspect we're going to have some weather coming with the ominous looking clouds](pics/sunset10.jpg){fig-alt="moody sky at sunset with lots of dark clouds"}
+:::
+
+----
+
+[Answering some of the people's questions:^[Don't forget, you too can [ask away](https://seabuck.netlify.app/ama)!]]{.subheaders}
+
+*What is your favorite thing about zooplankton?* Learning about how much diversity and variety there is in the sea, and getting a (very) hands-on view to things I'd likely not see anywhere else. Had no idea many of these critters existed prior to this trip, and it's neat being surrounded by so many people who get very excited about them.
+
+*How many Bucks could a Sea Buck Buck if a sea Buck could Buck Sea?* First, excellent question. Second, approximately 394.6, to my latest calculations.
+
+*Will I be fairly compensated for this testing?* Absolutely not.^[Ben got free entertainment out of the Night Crew last night as his compensation.]
+
+*When do nets come up?* Check the winch screen for how much wire's been paid out. Or go find Moira/Grace in the computer lab if you're asking about MOCNESS. 
+
+----
+
+*Sea fun fact of the day:* Pyrosomes (aka "fire sticks") get their 'pyro' name because they bioluminesce.^[Haven't seen any bioluminescence yet, but we've still got a couple weeks left out here. So, fingers crossed!]
+
+Bonus, since this is the Leap Day Log: Leap day originally came about as a way to [keep holidays far enough apart](https://www.nytimes.com/2024/02/29/science/leap-day-easter.html) from each other (specifically, the spring harvest holidays like Easter and Passover were creeping too close to the winter holidays without any calendar adjustments). 
+
+----
+
+
+PS: While I appreciate not having to cook for myself all the time (and I *ESPECIALLY LOVE* not having to do dishes), I do really miss baking. To my Boston pals/roommates, expect a lot of baked goods in a few weeks.
+:::
+
+
+
