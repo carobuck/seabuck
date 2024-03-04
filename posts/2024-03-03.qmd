@@ -1,0 +1,41 @@
+---
+title: "[Sea Log: 2024-03-03]{.subheaders}"
+draft: true
+date: 2024-03-03
+---
+
+::: {.div .bodyfont}
+
+Last night, I participated in an essential seafaring activity: decorating styrofoam cups to be sent down in the ocean and shrunk due to the pressure.^[Basically, the ocean equivalent of Shrinky Dinks] Many a cup were decorated and sent down on this morning's 0600 deep CTD,^[Down to 3000m!] so I woke up to a fun treasure this afternoon.^[When I greet people in the hallway just after waking up at 1400, do I say good morning? good afternoon? Greetings are fumbled constantly when time is an irrelevant construct.]
+
+We also all signed a head that got shrunk. No notes about how it turned out, the eyes are perfect. If you must see the before: [video link](https://photos.app.goo.gl/G5FDz5rWE6wqDniw8)
+
+----
+
+::: {layout-ncol=3}
+
+![Naturally, I had to do a sunset view on my cup](pics/before2.jpg){fig-alt="sunset drawn on styrofoam cup, more cups and art supplies in background of photo"}
+
+![Before, pt. 2](pics/before1.jpg){fig-alt="sunset drawn on styrofoam cup, more cups and art supplies in background of photo"}
+
+![After, with the CTD in the background](pics/after.jpg){fig-alt="shrunken cup held up in front of the CTD on deck"}
+:::
+
+::: {layout-ncol=2}
+
+![Some people's cups were truly works of art](pics/deco_cups.jpg){fig-alt="several people coloring cups surrounded by other decorated cups in a computer lab"}
+
+![Definitely not a demon head, nope, nuh uh.^[The real question is, whose desk is getting blessed with this back on land]](pics/head.jpg){fig-alt="a signed and shrunken styrofoam head. looks a little creepy, with sunken eyes"}
+:::
+
+
+----
+
+*Sea fun fact of the day:* Bow thrusters^[My stateroom is directly above the bow thrusters. Since these things are so loud and the background noise to my slumber, I figured I should actually learn what they're used for. ] are propellers located in the bow that help with ship maneuverability. They allow the ship to move port and starboard (left and right) without needing to go forward or backwards, and are especially useful for holding in position (something we do a lot), and in high winds/currents/swells (things we also have a lot of right now). 
+
+----
+
+:::
+
+
+
