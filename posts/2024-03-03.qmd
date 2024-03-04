@@ -1,6 +1,6 @@
 ---
 title: "[Sea Log: 2024-03-03]{.subheaders}"
-draft: true
+draft: false
 date: 2024-03-03
 ---
 
@@ -27,7 +27,6 @@ We also all signed a head that got shrunk. No notes about how it turned out, the
 
 ![Definitely not a demon head, nope, nuh uh.^[The real question is, whose desk is getting blessed with this back on land]](pics/head.jpg){fig-alt="a signed and shrunken styrofoam head. looks a little creepy, with sunken eyes"}
 :::
-
 
 ----
 
