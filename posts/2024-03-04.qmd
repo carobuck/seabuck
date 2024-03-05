@@ -1,0 +1,33 @@
+---
+title: "[Sea Log: 2024-03-04]{.subheaders}"
+draft: false
+date: 2024-03-04
+---
+
+::: {.div .bodyfont}
+
+Today we were in transit allll day long. Roughly a 20 hour transit as we come back closer to shore for our fourth station.^[Station 3 was roughly 300 miles off the coast; we took two shorter transit days to get out there because station 2 was roughly halfway in between] I spent the day reading,^[I just finished part 1 of American Gods by Neil Gaiman and I am not sure what to make of this book yet. It's not bad, it's not what I expected, it's....?? IDK. No spoilers plz if you have read it.] journaling, catching up with some landlubber friends, and hanging with new sea friends. We spent a good amount of time at lunch reminscing about nostalgic childhood candies and debating what kind of candy/chocolate is the best.^[I am team chocolate, not fruity/sweetie type candy.]
+
+Also, and I know this is a bold claim, but I think tonight might've been my favorite sunset thus far on this trip. It just kept getting better and better. 
+
+Then it was time for some Bananagrams,^[If you haven't played with a theme (where everyone has to justify how their words fit said theme), lemme tell ya, you're missing out] then off to bed.^[I'm supposed to be a night-shift gal out here. Will I regret being in bed before midnight tonight when tomorrow we'll be processing nets hella late since we've got a deep MOCNESS? Maybe, but that's tomorrow's problem and I'll have to deal with the consequences then.]
+
+----
+
+::: {layout-ncol=2}
+
+![Yasss sunset!!](pics/sunset14.jpg){fig-alt="gorgeous pastel/streaky clouds at sunset"}
+
+![C'mon you can't deny this is GOOD.](pics/sunset15.jpg){fig-alt="gorgeous pastel/streaky clouds at sunset"}
+:::
+
+----
+
+*Sea fun fact of the day:* The instruments we deploy via winch are attached to the cable using this thing that looks like a giant metal twist-tie. It holds everything together like one of those finger trap toys from childhood that get tighter as you pull your fingers apart in it.^[This is a preliminary fun fact, inspired by my dad's suggestion and because I think it's really neat that just this little wire twist is holding everything together. Tomorrow I'll ask around and find out 1. what it's actually called (because google let me down) and 2. will get more interesting info about the winches, because they're very important tools to be able to do much of the science we do out here!]
+
+----
+
+:::
+
+
+
