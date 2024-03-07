@@ -25,11 +25,22 @@ https://californiacurated.com/2023/11/29/chromatics-and-cognition-the-intriguing
 
 ----
 
-::: {layout-ncol=2}
+::: {layout="[70,-1,30]"}
 
-![Yasss sunset!!](pics/sunset14.jpg){fig-alt="gorgeous pastel/streaky clouds at sunset"}
+![Night crew family photo with Leroy^[Just before we put him back in the ocean. It was a gentle yeeting.]](pics/fampic.jpg){fig-alt="four people standing in a lab and adoringly looking at a tupperware container with a small baby octopus in it"}
 
-![C'mon you can't deny this is GOOD.](pics/sunset15.jpg){fig-alt="gorgeous pastel/streaky clouds at sunset"}
+![AWW LOOK AT LIL LEROY!!](pics/leroy.jpg){fig-alt="a tiny two spot octopus in a tupperware container"}
+
+:::
+
+::: {layout-ncol=3}
+
+![We're back in the land^[sea?] of goo^[SO. MUCH. GOO.] and pyrosomes](pics/bigpyro.jpg){fig-alt="a big purple pyrosome being held up over a bucket with tweezers"}
+
+![We got a bunch of these critters that remind me of the marbles I played with as a kid^[Except these ones are far squishier and wetter]](pics/marbles.jpg){fig-alt="clear marble-shaped zooplankton in a petri dish"}
+
+![Played my first game in the ship cribbage tournament on an old family friend's board^[Not all of my parents' friends have names like Seaweed... but when you grow up surrounded by mariners, there's a hefty handful with very on-brand nicknames]](pics/seaweedcrib.jpg){fig-alt="back of a cribbage board that says 'seaweed' on it"}
+
 :::
 
 ----

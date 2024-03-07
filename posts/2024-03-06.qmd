@@ -1,24 +1,27 @@
 ---
 title: "[Sea Log: 2024-03-06]{.subheaders}"
-draft: true
+draft: false
 date: 2024-03-06
 ---
 
 ::: {.div .bodyfont}
 
-Pretty sure I spent more time in bed than out of bed today. I slept in (till nearly 1400) then did all my things and then after DPI was recovered I figured I could do the rest of my computer things from bed so that's where I am. I've embraced that life at sea truly is an alternate reality and 
+Pretty sure I spent more time in bed than out of bed today. I slept in (till nearly 1400) then did all my things^[laundry, nets, dinner, sunset, etc. etc.] and then after DPI was recovered I figured I could do the rest of my computer things from bed so that's where I am. I've embraced that life at sea truly is an alternate reality and my usual land-routines need not apply.^[Getting back to east coast time after being on night shift is going to be a doozy. That's a future me problem though.]
+
+Just did easy peasy salp net and Bongo tonight. The bongo was FULL of goo. Pretty sure we either demolished a jellyfish on the way up, or we crushed many a salp because I picked goo out of mesh for a good twenty minutes at least. On the upside, I can say that my tweezer skills are much improved now compared to when I started this adventure. We did get some non-goo critters too, but nothing out of the ordinary and nothing nearly as cool as dear ol' Leroy from last night. 
+
 ----
 
 ::: {layout-ncol=2}
 
-![Yasss sunset!!](pics/sunset14.jpg){fig-alt="gorgeous pastel/streaky clouds at sunset"}
+![I finally found the good cryogenic pen again. Look how good these labels look.^[Grace may be more delighted than I am because now I'll finally shut up about how dead all the other cryo markers are]](pics/goodpen.jpg){fig-alt="cryogenic marker next to a labeled lid, with worksheet filled out in the background detailing labelled petri dishes."}
 
-![C'mon you can't deny this is GOOD.](pics/sunset15.jpg){fig-alt="gorgeous pastel/streaky clouds at sunset"}
+![Ship turned and plowed directly into the gray storm clouds as the sun was setting.^[We're in for a wavey, windy ride tonight]](pics/sunset16.jpg){fig-alt="gorgeous pastel/streaky clouds at sunset"}
 :::
 
 ----
 
-*Sea fun fact of the day:* Following up on yesterday's fun fact, the twistie tie metal things are called... 
+*Sea fun fact of the day:* When low on ink, [these pens](https://www.amazon.com/Alcohol-Resistant-Cryogenic-Permanent-Markers/dp/B00JEEV1NI/ref=sr_1_7?dib=eyJ2IjoiMSJ9.B5XyT_fQ591a8MT282ZEO5S4IR9UeCWUyRD4gU0q9Cfcap_XmcR-T_LnNbivjQiRd5D6OeNW4ltb-9xh2FGbh_5tdrlI1QcdsOABiTYvQfwfvVgbYd6k2iKA2VDWsGA5WYdfQjY5ZcQR-ra-PrNhv1gMe3acPP4CMWPpK_5vkMK7Qh3hPYgwCrF4bCZ_kPdDdb1_HQkrgTjDq5m1_HSDzrqYPCfAXCA9vXYVGfhCbb7nzuz_R_SUBW4mjbpYPiUUzuE6sDtpQmU3dY5qGCPoEhp-R1dx65ACeDiIHPWkOi8.k4-mIWbX01ey8h01THqSLAKCimeopauvWCc5ybkW8jE&dib_tag=se&keywords=GA+International&qid=1709809864&sr=8-7) are the bane of my existence. I am currently conducting my own science experiment right now;^[aka I wrote on a petri dish and put it in the freezer] we have some other chemical resistant pens that work REAL nice and I am testing if they'll hold up in the -80 freezer. Fingers crossed they do, because they write so nice and we have so many of them that aren't dying. 
 
 ----
 
