@@ -1,31 +1,20 @@
 ---
 title: "[Sea Log: 2024-03-05]{.subheaders}"
-draft: true
+draft: false
 date: 2024-03-05
 ---
 
 ::: {.div .bodyfont}
 
-Land ho! Our long transit from yesterday is over and we're back closer to shore for this next cycle.^[Roughly tinkering around in the ocean about 30ish miles off the coast. Off Pismo Beach last I checked.] Being closer to shore, the ocean is ALIVE AND ABUNDANT AGAIN. Like whoa, if you just look over the side of the ship after dark you can see TONS of things drifting/swimming by, some of which are very large. Lots pyrosomes, salp chains, shiny fish, jellyfish, etc. etc.^[aka a bunch of other stuff I can't name, but smart science people on this ship definitely can. Also heard rumor there was a shark swimming around out there tonight, but everytime I went to go look she was gone :( ] Day crew got a ton of pyrosomes and biomass in today's nets, so I was gearing up for a massive haul tonight, because usually we get more at night than during the daytime.^[Due to DVM, diel ... FILL THIS IN CARO. and add ref]. While we did get far more in tonight's nets than we were getting out at the last station for the past few days, we didn't top day crew's hauls. They had hundreds of pyrosomes; we had maybe a hundred total, from all the nets combined? So a lot, but not as much as they had. Their cod ends were PACKED with pyros. Wowzas!
+Land ho! Our long transit from yesterday is over and we're back closer to shore for this next cycle.^[Roughly tinkering around in the ocean about 30ish miles off the coast. Off Pismo Beach last I checked.] Being closer to shore, the ocean is ALIVE AND ABUNDANT AGAIN. Like whoa, if you just look over the side of the ship after dark you can see TONS of things drifting/swimming by, some of which are very large. Lots pyrosomes, salp chains, shiny fish, jellyfish, etc. etc.^[aka a bunch of other stuff I can't name, but smart science people on this ship definitely can. Also heard rumor there was a shark swimming around out there tonight, but every time I went to go look she was gone :( ] Day crew got a ton of pyrosomes and biomass in today's nets, so I was gearing up for a massive haul tonight, because usually we get more at night than during the daytime.^[Due to [diel vertical migration](https://oceanexplorer.noaa.gov/facts/vertical-migration.html), aka DVM for short] While we did get far more in tonight's nets than we were getting the past few days out at the last station, we didn't top day crew's hauls. They had hundreds of pyrosomes; we had maybe a hundred total, from all our nets combined. So a lot, but not as much as they had. Their cod ends were PACKED with pyros. Wowzas!
 
-^^ fact check the pyro numbers w/ grace for rough estimates. 
+However: the highlight of tonight^[and quite possibly my favorite critter of the trip because this will be hard to top] was that we caught a lil octopus hatchling!! AWWW! We named him Leroy and we're pretty sure he's a [California two-spot hatchling](https://californiacurated.com/2023/11/29/chromatics-and-cognition-the-intriguing-world-of-the-california-two-spot-octopus/). He's adorable and we couldn't decide who should get him for a desk pet, so we returned him to the ocean at the end of the night. I also got to hold his hand, or rather, his suckers held onto the tip of my finger, and it was the most gentle feeling. Very very cool to say the least. 
 
-we caught octo. leroy, see email for type. had fam photoshoo t== (we had a moment where he held my finger. the lightest of light touch w/ his suckers. it was so cool, I wanna feel a big one sometime. )
-
-also played my first game in the cribbage tournament; a great game w/ Gabe.^[I won, but we're doing best 2 out of 3 so he's still got a chance for a comeback]
-
-susnet
-
-tried to do the small boat ops (grace wanted to collect pyros), but too choppy so we did a moc instead
-
-also, taco tuesday is maybe my favorite dinner on the ship, and the peach crisp for dessert tonight was the (metaphorical) cherry on top. *SO GOOD* Richard and Jim! Thank you!
-
-pic of land, leroy family photo, leroy glamour shot, sunset? 
-https://californiacurated.com/2023/11/29/chromatics-and-cognition-the-intriguing-world-of-the-california-two-spot-octopus/
+We caught Leroy in our MOCNESS tonight, but we almost didn't have a MOCNESS because small boat ops were on the agenda. But the sea was just a little too choppy to make the small boat ops doable. I suppose finding Leroy was a decent tradeoff.^[It was neat watching the crew get started with the small boat and crane it up over the side of the ship.] 
 
 ----
 
-::: {layout="[70,-1,30]"}
+::: {layout="[70,30]"}
 
 ![Night crew family photo with Leroy^[Just before we put him back in the ocean. It was a gentle yeeting.]](pics/fampic.jpg){fig-alt="four people standing in a lab and adoringly looking at a tupperware container with a small baby octopus in it"}
 
@@ -39,13 +28,15 @@ https://californiacurated.com/2023/11/29/chromatics-and-cognition-the-intriguing
 
 ![We got a bunch of these critters that remind me of the marbles I played with as a kid^[Except these ones are far squishier and wetter]](pics/marbles.jpg){fig-alt="clear marble-shaped zooplankton in a petri dish"}
 
-![Played my first game in the ship cribbage tournament on an old family friend's board^[Not all of my parents' friends have names like Seaweed... but when you grow up surrounded by mariners, there's a hefty handful with very on-brand nicknames]](pics/seaweedcrib.jpg){fig-alt="back of a cribbage board that says 'seaweed' on it"}
+![Played my first game in the ship cribbage tournament^[Nice game, Gabe] on an old family friend's board^[Not all of my parents' friends have names like Seaweed... but when you grow up surrounded by mariners, there's a hefty handful with very on-brand nicknames]](pics/seaweedcrib.jpg){fig-alt="back of a cribbage board that says 'seaweed' on it"}
 
 :::
 
+Also: Taco Tuesday is my favorite dinner on the ship, and the peach crisp for dessert tonight was the (metaphorical) cherry on top. *SO GOOD* Richard and Jim! Thank you!
+
 ----
 
-*Sea fun fact of the day:* Following up on yesterday's fun fact, the twistie tie metal things are called... 
+*Sea fun fact of the day:* Following up on yesterday's fun fact, the twistie tie metal things are called [guy-grips](https://www.plp.com/energy/distribution/guying-products/guy-grip-dead-end), and were originally developed for the utility line industry in the 1940s, but since then have proved very useful for shipboard cable operations. These [PMI guy-grips](https://pmiind.com/subsea-cable-hardware/cable-terminations/cable-grip-stopper-grip-terminations/) are what we have onboard and it still blows my mind that just twisting these things around the end of the wire not only attaches all our heavy instruments that get dragged through the ocean, but they also have the same breaking strength as the cable itself! Wild!
 
 ----
 
