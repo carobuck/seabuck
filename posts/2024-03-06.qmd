@@ -1,0 +1,28 @@
+---
+title: "[Sea Log: 2024-03-06]{.subheaders}"
+draft: true
+date: 2024-03-06
+---
+
+::: {.div .bodyfont}
+
+Pretty sure I spent more time in bed than out of bed today. I slept in (till nearly 1400) then did all my things and then after DPI was recovered I figured I could do the rest of my computer things from bed so that's where I am. I've embraced that life at sea truly is an alternate reality and 
+----
+
+::: {layout-ncol=2}
+
+![Yasss sunset!!](pics/sunset14.jpg){fig-alt="gorgeous pastel/streaky clouds at sunset"}
+
+![C'mon you can't deny this is GOOD.](pics/sunset15.jpg){fig-alt="gorgeous pastel/streaky clouds at sunset"}
+:::
+
+----
+
+*Sea fun fact of the day:* Following up on yesterday's fun fact, the twistie tie metal things are called... 
+
+----
+
+:::
+
+
+
