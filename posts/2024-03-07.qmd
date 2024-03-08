@@ -1,0 +1,30 @@
+---
+title: "[Sea Log: 2024-03-07]{.subheaders}"
+draft: false
+date: 2024-03-07
+---
+
+::: {.div .bodyfont}
+
+Choppy, windy, swelly day so most of the science stuff got cancelled (not safe to put instruments into the water, especially off the stern). Spent a good portion of the afternoon sitting outside on the picnic table with Madison chatting and watching in awe as some truly big waves rolled past us. Have I mentioned recently that the ocean is wild?^[Because it is.]
+
+Dinner had a phenomenal curry tofu soup^[Thanks Richard & Jim!] and then Gabe and I finished our cribbage rounds for the tournament.^[I won first game, he won second, and then he won by a hair in the third. Very funnily and statistically unlikely: my first hand had all 4 jacks and his last hand had 3 jacks and a 5. Some big points happening!]
+
+Our bongo net ended up going in tonight; lots of slime and goo, a repeat of last night. We also got a bunch more salps--most exciting was the big one that was roughly 9 inches long!!^[aka roughly 22.86cm because *science* uses the metric system] Pretty sure it's a [solitary cyclosalpa](https://sio-legacy.ucsd.edu/zooplanktonguide/species/cyclosalpa-affinis), but maybe not since the one we found is MUCH larger than the typical sizes they're found in. Also, if you look close, the brown splotch in the upper left of the salp is a fecal pellet^[lol poop!] that it's about to expel. 
+
+----
+
+::: {layout="[30,70]"}
+
+![A cyclosalpa takes a dump (almost)](pics/cyclosalpa.jpg){fig-alt="a large gelatinous salp in a plastic shoebox"}
+
+![Choppy seas mean the finest of tablecloths come out^[aka rubber mats so our plates don't slide clear off the table]](pics/tablecloth.jpg){fig-alt="scene of mess hall with rubberized table cloths"}
+:::
+
+----
+
+*Sea fun fact of the day:* All the lights are on inside the ship at all times. According to an engineer this is maybe to give some strain on the engines/generators?? But more likely it's important to have the lights on so that in the event of an emergency, if you're rushing into somewhere you don't have to fret about also turning on the lights.^[Truthfully, I haven't the faintest idea where the light switches are in our lab. Or where they are in any of the common spaces. So good thing we don't turn them off.]
+
+----
+
+:::
