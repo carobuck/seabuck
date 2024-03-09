@@ -1,0 +1,33 @@
+---
+title: "[Sea Log: 2024-03-08]{.subheaders}"
+draft: false
+date: 2024-03-08
+---
+
+::: {.div .bodyfont}
+
+Not much to report from sea today. The swells and wind died down, so science was back on!^[Except for the 6-hour block of time when the Navy told us we had to get out of the particular patch of ocean for unspecified reasons.] Bongo tonight was less gooey,^[FINALLY] sunset was solid, and I read for a good chunk of time in the sunshine.^[American Gods is weird and I'm still not sure how to feel about it.]
+
+Only thing of note in our nets tonight was a BIG CHONKY pyrosome that was *THICCC*. And well over a foot long. Somehow I missed the hubbub of when it was pulled out of the nets because I was apparently too lost in the sauce labeling petri dishes!?!?!?^[Labels are exciting but not that exciting?? The vacuum for sucking/filtering water must really drown out a lot more noise than I thought.]
+
+----
+
+::: {layout="[36,64]"}
+
+![Yes that is a gallon jar](pics/grace_pyro.jpg){fig-alt="a large pyrosome in a gallon-sized jar being held up by Grace"}
+
+![Y'all know the drill](pics/sunset17.jpg){fig-alt="sunset over the ocean with streaky clouds"}
+:::
+
+----
+
+*Sea fun fact(s) of the day:* 
+
+1. Ben Franklin is my favorite founding father^[dude was WILD. Would love to have him as a dream dinner party guest if anyone was wondering.] and I found out today that pre-US Constitution, during the Articles of Confederation era, there was a [State of Franklin](https://en.wikipedia.org/wiki/State_of_Franklin) that applied for statehood, was denied, but still existed unofficially for a few years!? Though named after him, Ben himself wasn't really a supporter of the state (he was mostly in Europe by this point of his life, acting as a diplomat for the newly independent American country).^[when the State of Franklin folks wrote to him, Ben essentially said "sry i'm in europe, idk. prob anything useful you've already thought of. ttyl if i think of anything useful."] 
+
+2. Pyrosome poop sinks slower than expected/slower than other zooplankton.^[stay tuned for a future paper/preso/something from Grace when she eventually publishes poop related content]
+
+----
+
+:::
+
