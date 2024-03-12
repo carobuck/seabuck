@@ -1,0 +1,33 @@
+---
+title: "[Sea Log: 2024-03-11]{.subheaders}"
+draft: true
+date: 2024-03-11
+---
+
+::: {.div .bodyfont}
+
+It's port call day! Well, sort of. We^[the whole ship] aren't going all the way into port, rather we are getting close, then a small boat will come out and we'll swap some folks. A few gotta get off to head to a conference, and a couple more are getting on to finish out the last week ]
+
+----
+
+::: {layout="[36,64]"}
+
+![Yes that is a gallon jar](pics/grace_pyro.jpg){fig-alt="a large pyrosome in a gallon-sized jar being held up by Grace"}
+
+![Y'all know the drill](pics/sunset17.jpg){fig-alt="sunset over the ocean with streaky clouds"}
+:::
+
+----
+
+[Answering some of the people's questions:^[Don't forget, you too can [ask away](https://seabuck.netlify.app/ama)!]]{.subheaders}
+
+*(re bioluminescence) Why only purple glow? Why not blue or green? Is it algae?* So far I've seen blue and purple bioluminescence on this trip. Not sure why/how different colors but 
+
+----
+
+*Sea fun fact(s) of the day:*  blah blah blah
+
+----
+
+:::
+

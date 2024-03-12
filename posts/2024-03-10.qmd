@@ -1,0 +1,53 @@
+---
+title: "[Sea Log: 2024-03-10]{.subheaders}"
+draft: false
+date: 2024-03-10
+---
+
+::: {.div .bodyfont}
+
+Leroy returned!!!^[Probably a different Leroy, but all hatchling octopuses are named Leroy. You can't argue with the facts.] Truly, what a feat to collect not one, but TWO bby octopuses out at sea! This time he showed up in our Bongo net on Saturday night and we were all quite delighted to have him in our midst again. He seemed friendlier and more willing to hold onto our fingers.^[Octopuses can have different personalities, if I learned nothing else from my reading of *The Soul of an Octopus*] This time, we got to keep Leroy and he'll be my bestest^[and, so far, only] desk pet.^[Swing by in Cambridge if you wanna say hi to him]
+
+::: {layout="[43,57]"}
+
+![Leroy the Second!](pics/leroy_2.jpg){fig-alt="a small CA two spot hatchling octopus in a plastic tupperware"}
+
+![A dirge was sung^[in our hearts] at Midnight Snackies. RIP Leroy II^[and probably Leroy I because his return to the ocean was more of a yeeting.]](pics/rip_leroy.jpg){fig-alt="A small jar in the foreground with a table of people sitting in the background"}
+
+:::
+
+----
+
+Saturday had a stunner of a sunset--phenomenal clouds, colors, the whole shebang. Sunday's was kinda lackluster if I'm honest.^[But I shant miss a sunset!! I've now become *that girl* where everyone knows I simply *must* see the sunset. And you always know where to find me in the evenings.] Saturday night had a less slimy Bongo and medium slimy MOCNESS.^[There's nothing quite like the feeling of trying to catch slimy goo out of both ends of a cup because you overfilled it and it won't all fit in one petri dish. Oops. The ocean has some very very slippery things in it if anyone was wondering.] Sunday night was slightly different net processing, but only because day shift still wasn't done with their processing and we had to do ours in the main lab.^[aka not in the wet lab where it's fine to spray water all over the place. I had to very carefully aim the seawater squirt bottles last night while size-fractioning. If you know me, you know that not spilling water is not my forte so I did my best and toweled off the rest of the counter afterwards.]
+
+Some tidbits:
+
+- Grace dropkicked a pyrosome that came up on the winch. She meant for it to go over the A-frame but instead it hit and exploded all over me. Comical. What's a lil more goo^[pyro goo, YUM] at this point?!
+- Despite washing my hands multiple times and showering, I now go to bed every day smelling like zooplankton^[think: slightly rank, salty ocean with a whiff of dead fish]
+- "The ocean is patchy as hell"^[net 9 of our MOCNESS was packed with goo, net 0 was so light on biomass]
+- The cool kids now say 'gotta bongo' rather than 'gotta go' when you've got to leave
+
+----
+
+::: {layout="[47,26.5,26.5]"}
+
+![Possibly tied for my favorite sunset out at sea^[Pictures can hardly capture how COOL the clouds looked, with all the pastel colors and different kinds of clouds layered on top of each other]](pics/sunset18.jpg){fig-alt="sunset over the ocean with streaky clouds"}
+
+![Lately we've gotten a lot of pyrosome jerky^[aka very flattened pyros that have had their goo forced out of them as they were dragged through the ocean with non-negligible force] on the instruments when we haul 'em back on board](pics/pyro_jerky.jpg){fig-alt="a squashed pyrosome held up by a hand in front of the DPI instrument"}
+
+![Nets with a view I suppose.^[Once you see one rocket launch, you've seen 'em all. Old news at this point. LAMÉ!!]](pics/rocket_2.jpg){fig-alt="orange glow from rocket in the background, with a salp net being lowered into the ocean"}
+
+:::
+----
+
+[Answering some of the people's questions:^[Don't forget, you too can [ask away](https://seabuck.netlify.app/ama)!]]{.subheaders}
+
+*Have you learned any sea ditty chants?* Nope. Still got a week though so if you're on this ship and have a good one come find me.
+
+----
+
+*Sea fun fact of the day:* We hit (and broke up) a salp chain in Sunday's bongo. Salps are affectionately called the ["trash bags of the sea."](https://photos.app.goo.gl/VMt7kni7sPuzhnpY9) And when they change sex, you can see the testes develop inside of them! It's the grayish fuzzy stuff on top of the gut.^[Clear goo critters might be hard to see, but on the upside it's real easy to see inside of them!]
+
+
+:::
+
