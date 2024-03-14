@@ -1,37 +1,37 @@
 ---
 title: "[Sea Log: 2024-03-11]{.subheaders}"
-draft: true
+draft: false
 date: 2024-03-11
 ---
 
 ::: {.div .bodyfont}
 
-It's port call day! Well, sort of. We^[the whole ship] aren't going all the way into port, rather we are getting close and then hovering in the water while a small boat comes out to swap some folks. A few gotta get off to head to a conference, and a couple more are getting on to finish out the last week at sea. 
+It's port call day! Well, sort of. We^[the whole ship] aren't going all the way into port, rather we are getting close and then hovering in the water while a small boat comes out to swap some folks. A few gotta get off to head to a conference, and a couple more are getting on the ship to finish out the last week at sea. 
 
 Heading into/near Port Hueneme, we passed between the Channel Islands and California coast and it was quite lovely and beautiful. Water was pretty calm too, so it was smooth sailing into port with a gloriously sunny day. Heading back out to sea after we swapped people was a different story; last night was full of rather rocky seas.^[Thankfully, this time passing Point Conception I was not seasick, so that was very much a win compared to a few weeks ago.]
 
-rocky seas again. no more calm water of the channel islands & land. tho this time around, I'm not seasick so that's a win. 
-super windy sunset, but pretty. put pic of madison and I
-
 ----
 
-::: {layout="[36,64]"}
+::: {layout-ncol=2}
 
-![Yes that is a gallon jar](pics/grace_pyro.jpg){fig-alt="a large pyrosome in a gallon-sized jar being held up by Grace"}
+![The small boat that came out for sci-party swaps. Note the XXXL bag^[Giving major IKEA energy] used for transferring luggage^[Not humans. There was a rope ladder hanging off the ship for the humans.]](pics/tug.jpg){fig-alt="smaller boat pulled up alongside R/V Revelle to swap some people and bring more jars"}
 
-![Y'all know the drill](pics/sunset17.jpg){fig-alt="sunset over the ocean with streaky clouds"}
+![Sunset was very very windy. But pretty!](pics/sunset21.jpg){fig-alt="sunset over the ocean with streaky clouds"}
 :::
 
 ----
 
 [Answering some of the people's questions:^[Don't forget, you too can [ask away](https://seabuck.netlify.app/ama)!]]{.subheaders}
 
-*(re bioluminescence) Why only purple glow? Why not blue or green? Is it algae?* So far I've seen blue and purple bioluminescence on this trip. Not sure why/how different colors but 
-not sure why diff colors, is due to whatever is making them biolum, and could be chem, what they ate, etc. sooo... research needed?
+*(re bioluminescence) Why only purple glow? Why not blue or green? Is it algae?* So far I've seen blue and purple bioluminescence on this trip. Not sure why/how there are different colors but likely due to the structure of the molecules involved in the chemical reaction that causes the bioluminescence. I asked around onboard and found some articles ([here](https://www.montereybayaquarium.org/stories/bioluminescence) and [here](https://scripps.ucsd.edu/news/voyager-does-bioluminescence-occur-just-one-color-or-are-there-different-colors-if-so-how-are)), but probably need more research on this when I have speedier wifi. 
 
 ----
 
-*Sea fun fact(s) of the day:*  blah blah blah
+*Sea fun fact(s) of the day:*  
+
+1. [Cards Against Disney](https://boardgamegeek.com/boardgame/333515/cards-against-disney) exists as a game. Beware of playing if you still value your childhood. 
+
+2. Colorful sunsets are a result of [light scattering](https://www.reconnectwithnature.org/news-events/the-buzz/the-science-of-sunsets/)--and since different wavelengths scatter in different ways as they go through "more air" (when the sun is lower in the sky than right above), we see more colors in the sky when the sun is rising/setting. 
 
 ----
 
