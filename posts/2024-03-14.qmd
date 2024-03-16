@@ -1,0 +1,35 @@
+---
+title: "[Sea Log: 2024-03-14]{.subheaders}"
+draft: true
+date: 2024-03-14
+---
+
+::: {.div .bodyfont}
+
+Longest day ever where I went to bed Thurs Mar 14th at 1:30am^[so this counts as going to bed on "Wednesday"], slept, got up in time for lunch, then stayed up through breakfast on Friday morning^[which kinda felt like going to bed on "Thursday"]. And now I write this and it's still Friday? Somehow? My body is so confused what day it is at this point and my brain doesn't even bother trying to keep track of what day it is. We've only got a couple more days on ship before we're back in San Diego anyways, and I figure I can sort out mundanities like day of week then. 
+
+But we've got some exciting things to catch up on. 
+
+- So many whales^[photographing whales is hard so check them out in this [video](https://photos.app.goo.gl/VdWmUFT8Ve26k91i7), especially the first 20ish seconds] in the afternoon! 
+
+
+::: {layout-ncol=2}
+
+![Taken at 7:04pm. Not looking promising with the clouds rolling in.](pics/sunset19.jpg){fig-alt="gray clouds over the ocean with the faintest hint of sunset"}
+
+![Taken a mere 15 minutes later at 7:21pm. WOW.^[There's probably some sort of metaphor about beauty from ashes or beauty in the mundane gray or something like that here. ]](pics/sunset20.jpg){fig-alt="phenomenally colorful sunset over the ocean with streaky clouds"}
+:::
+
+----
+
+A storm is rolling in, so we're back to wind, waves, swell, and chop tonight. The nets all got cancelled because the wind and current were not cooperating for safe net handling. Instead we put in a McLane pump to filter a bunch of seawater at high efficiency, and then we sat around and swapped some good stories (and some very shocking ones^[sry not posting on the internet but I'll tell u IRL if u ask] about stuff that's happened at sea. WHOA.)
+
+I'm feeling philosophical this evening.^[A really really phenomenal sunset that literally takes my words away will do this to me.] The ocean life is full of ups and downs.^[Literally and metaphorically] I miss land and my regular life and my usual community, and yet I have seen and experienced things out at sea that one can't really get anywhere else. We've got less than a week left on this ship, and what started out as a group of total strangers, I'd now count among my friends. The communal meals and impromptu conversations about life, love, poop, sunsets, etc. etc. are some of the best parts. Roasting each other at 2am is a niche kind of hilarious and makes me realize that all of *this* is how sea stories are written. And I'm glad to get to be a part of it. Sea really is wild and all over the place.^[Literally and metaphorically]
+
+----
+
+*Sea fun fact of the day:*  With our nets cancelled, I learned a bit more about how the wind, current, and ship's position impact our nets. Ideally, the ship points into the wind (so if you stand up on the bow you get blasted). Usually the current runs in the same direction of the wind, which is great for our nets. Tonight, the wind and current were about 70-90 degrees off from each other, so when we tried to put the Bongo in, it started dragging underneath the ship which is not good at all. We tried turning the ship to point slightly off the wind so the water current would be more favorable, however that didn't work either because the wind was gusting up into the 30ish knot range^[aka pretty dang windy] and the current was moving at about a knot and a half. When we drag nets, the ship ideally goes pretty slow at about 1.5 knots but with a strong current, if we're not steaming into the wind, we get blown off heading and drift sideways. To steam off-wind and not lose our heading, we'd have to be moving much faster than 1.5 knots... but then the nets would get torn to shreds.^[And we'd get no pyrosomes or other critters. And Grace would be sad.]
+
+
+:::
+
