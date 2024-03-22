@@ -1,0 +1,28 @@
+---
+title: "[Sea Log: 2024-03-14]{.subheaders}"
+draft: true
+date: 2024-03-14
+---
+
+::: {.div .bodyfont}
+
+The science is done, the cleaning has begun!
+
+::: {layout-ncol=2}
+
+![Taken at 7:04pm. Not looking promising with the clouds rolling in.](pics/sunset19.jpg){fig-alt="gray clouds over the ocean with the faintest hint of sunset"}
+
+![Taken a mere 15 minutes later at 7:21pm. WOW.^[There's probably some sort of metaphor about beauty from ashes or beauty in the mundane gray or something like that here. ]](pics/sunset20.jpg){fig-alt="phenomenally colorful sunset over the ocean with streaky clouds"}
+:::
+
+----
+
+
+
+----
+
+*Sea fun fact of the day:*  stuff
+
+
+:::
+

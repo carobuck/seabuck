@@ -1,0 +1,47 @@
+---
+title: "[Sea Log: 2024-03-18]{.subheaders}"
+draft: false
+date: 2024-03-18
+---
+
+::: {.div .bodyfont}
+
+LAND HO!!!! Seabuck is a landbuck once again. It is wonderful to be back on solid ground,^[no landsickness, but if I closed my eyes while standing, I did sway back and forth a little bit] to sleep in a quiet room,^[No more bow thruster!] and to get more variety/choice in my snack and meal options.^[Fried eggs on gf toast was the first thing I ate back on land and it did not disappoint.]
+
+Last day at sea involved one last bit of science,^[hauling the DPI out of the ocean one final time at sunrise] then organizing, packing, and some good ol' staring out at the ocean. And staring out a land--because after we transited to our final stop, we had to linger outside of San Diego bay while we waited for the evening high tide.^[The tides strike again as my favorite reason to be late for anything] Point Loma and the Cabrillo monument and downtown SD do look lovely from the water though. Can confirm.
+
+----
+
+::: {layout="[47,26.5,26.5]"}
+
+![This is just a fraction of all the stuff we've gotta unload](pics/fwd_hold.jpg){fig-alt="image of many boxes and bins stacked in the forward hold of the ship"}
+
+![If you hold up a ratchet strap on Revelle, there's a 9 in 10 chance that I rolled it at some point in the demob^[demobilization, aka get all our stuff off this ship. aka time to move many, many boxes. Who needs a gym when you've got boxes and boxes and boxes of samples]](pics/ratchet.jpg){fig-alt="close up of several rolled ratchet straps"}
+
+![The deck locker. AKA House of Le Ratchet Strap.^[also house of some of the biggest, and rustiest, shackles I've ever seen]](pics/ratchet_mecca.jpg){fig-alt="a closet full of ratchet straps and other deck equipment on the ship"}
+
+:::
+
+----
+
+As we crawled into port,^[Note: Parking a ship is no small feat. Takes way longer than parking a car, so factor that into your future transportation plans.] several people were waiting on deck--my parents were very eager to be the welcome-back-to-land crew. Sunset happened while we were parking, and then right when the gangway was ready and we all disembarked, ANOTHER Starlink rocket launch arced across the sky, leaving behind some really cool trails.^[I technically was still on the ship when it started, so I'm counting this as the *third* rocket launch I've seen aboard ship.]
+
+----
+
+::: {layout="[48,26,26]"}
+
+![Only thing better than sunset is friends with sunset](pics/friends.jpg){fig-alt="group photo of several people on deck, with sunset in the background"}
+
+![bby Caro^[a young seabuck who didn't realize she was properly a seabuck yet!] welcomes back Dad aboard Melville^[Melville is, in fact, coming into port. Dad liked to turn the ships around in the ship channel and then reverse into the parking spot on the pier.]](pics/caro_ship.jpg){fig-alt="young Caro standing on the pier while Melville comes back to port"}
+
+![Full circle moment: Dad welcomes back Caro aboard Revelle!](pics/dad_ship.jpg){fig-alt="dad standing on pier while Revelle comes back to port"}
+
+:::
+
+----
+
+*Sea fun fact of the day:*  The pier at MarFac^[Marine Facility for long, or Scripps Institution of Oceanography Marine Facility for really long] has a couple of resident coyotes. They are supposed to scare away the birds, but the birds are bold and the dock is just covered in bird crap. Humans to get a kick out of them though,^[at least my mother did as she moved them all over the dock while we were parking] and the coyotes are very chic with their plastic bodies and furry tails.^[v classy when the tails fall off and someone decided the tails would be better used as a fur collar on the lil guys]
+
+
+:::
+
