@@ -1,27 +1,30 @@
 ---
-title: "[Sea Log: 2024-03-14]{.subheaders}"
-draft: true
-date: 2024-03-14
+title: "[Sea Log: 2024-03-17]{.subheaders}"
+draft: false
+date: 2024-03-17
 ---
 
 ::: {.div .bodyfont}
 
-The science is done, the cleaning has begun!
+The science is done,^[our last MOCNESS was finished in the wee hours of March 17th] the cleaning has begun! You'd think that a mere 16 nets wouldn't be too bad, but when some of the nets are 20+ feet long, and you have to rinse, then scrub with soap^[Grace + giant trash barrel + some dish soap = DIY washing machine], then flip inside out, then rinse the inside, then flip right-side out, then rinse the outside... It is a process to say the least. 
 
-::: {layout-ncol=2}
+I volunteered as tribute^[meaning I held up the nets while they got their final two rinses] and I got soaked. Like, dump-water-out-of-the-rainboots, abandon-the-rain-pants-because-they're-not-doing-anything-anymore soaked. 
 
-![Taken at 7:04pm. Not looking promising with the clouds rolling in.](pics/sunset19.jpg){fig-alt="gray clouds over the ocean with the faintest hint of sunset"}
+And to round out the day, we had an on-theme St. Patrick's Day meal with the dregs of the food stores. Then we started our transit back to San Diego and land!
 
-![Taken a mere 15 minutes later at 7:21pm. WOW.^[There's probably some sort of metaphor about beauty from ashes or beauty in the mundane gray or something like that here. ]](pics/sunset20.jpg){fig-alt="phenomenally colorful sunset over the ocean with streaky clouds"}
+::: {layout="[26.5,47,26.5]"}
+
+![The final Goopy Guy counts: 40 Bongos and 23 MOCNESSes and we're done!](pics/goopyguys.jpg){fig-alt="image of many boxes and bins stacked in the forward hold of the ship"}
+
+![v grateful for v sunny day for hosing some v smelly nets^[zooplankton fresh from the sea smells a little funky... but zooplankton dried and crusty on a net are *real* funky smelling]](pics/hosing.jpg){fig-alt="several people stand on aft deck, hosing off nets"}
+
+![The hangar has an almost ethereal atmosphere when it's filled with wet nets strung out to dry](pics/drying.jpg){fig-alt="many nets crowded into the hangar to dry, amidst a bunch of other equipment that is partially packed"}
+
 :::
 
 ----
 
-
-
-----
-
-*Sea fun fact of the day:*  stuff
+*Sea fun fact of the day:*  So I googled why zooplankton smell and learned some interesting tidbits about the role of sulfur in the ocean. Both for good^[exploding plankton release the sulfuric smells, both attracting predators to their next meal and helping to make clouds and regulate earth's temperature] and for less good.^[Some seabirds can smell the sulfur and get confused and then chomp down on plastic because it is covered in algae that also smells sulfuric] If you also wanna fall down this rabbit hole, here's a [video](https://nerdfighteria.info/v/M801n0GpBqQ/) and [article](https://www.audubon.org/news/why-do-some-seabirds-eat-so-much-plastic-it-smells-food) to get you started. 
 
 
 :::
