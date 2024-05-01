@@ -5,6 +5,8 @@ website:
   title: "[Seabuck]{.headers}"
   navbar:
     right:
+      - href: logs.qmd
+        text: "[Logs]{.subheaders}"
       - href: about.qmd
         text: "[FAQ]{.subheaders}"
       - href: ama.qmd

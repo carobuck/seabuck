@@ -1,0 +1,9 @@
+---
+title: "[Adventures of a Seabuck]{.headers}"
+listing: 
+  contents: posts
+  type: default
+  sort: date desc
+execute:
+  freeze: auto 
+---
