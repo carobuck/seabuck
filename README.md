@@ -1,0 +1,11 @@
+## Adventures at Sea
+
+This winter, I tried something totally different from my day job: I volunteered aboard R/V Roger Revelle with a zooplankton lab (Décima Lab at UCSD). I was out to sea for a full month, living and working with about 30 other scientists (and 25ish crew members) aboard ship on a variety of research projects. The ocean is a truly wild place, and I saw things I’ll likely never see anywhere else – from some incredible sunsets to some of the gooiest creatures alive.
+
+We had several oceanography and research disciplines aboard Revelle, and all teams collected data to contribute to CCE-LTER, a project that seeks to study long-term ecological processes in the California current. Though most of my work was related to collecting and processing creatures (the necessary collection steps before lab processing on land and making a final dataset of measurements), I also was able to use my coding and data skills to assist grad students with their own data visualizations and analysis out at sea. As someone who typically only uses the end-results of a long process of data collection/curation (aka a dataset), it was exciting to be part of the creation of data and eventual data sets.
+
+My parents (and both uncles) all went to maritime academy, so I grew up surrounded by stories of the sea. My dad was at Scripps Institution of Oceanography his whole career, sailing ships all over the world for assorted ocean research. With all these stories, I’ve always wanted to go to sea but opportunities to do so (especially as someone not in oceanography nor maritime trades) are rare. Early in January, my dad sent me a last-minute opportunity to join a science party for a month at sea, and the opportunity to collect and study zooplankton (and other ocean critters) was too far up my alley to not seriously pursue. I’m so grateful to have gotten to experience the sea-going life and have some sea stories of my own to add to the family lore.
+
+I kept near-daily logs of my time at sea; if you’d like to read (and see) more about the adventures, please check out the logs. I’m also very happy to chat about anything and everything ship and/or ocean related, so please say hi if you’d like.
+
+This repository holds the code that powers the Quarto website. I also figured out some fun functionality with forms, so that's sprinkled in too. 
