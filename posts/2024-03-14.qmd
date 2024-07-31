@@ -1,7 +1,7 @@
 ---
 title: "[Sea Log: 2024-03-14]{.subheaders}"
 draft: false
-date: 2024-07-31
+date: 2024-03-14
 ---
 
 ::: {.div .bodyfont}
