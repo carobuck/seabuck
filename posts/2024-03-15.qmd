@@ -1,0 +1,29 @@
+---
+title: "[Sea Log: 2024-03-15]{.subheaders}"
+draft: false
+date: 2024-03-15
+---
+
+::: {.div .bodyfont}
+
+Not much to report;^[granted, I'm also posting this belatedly in July 2024, so it's entirely possible I'm forgetting something essential. But more likely, I probably slept, read on deck, ate dinner, Bongo'd and DPI'd. Probably walked on the janky treadmill and swung around the kettlebell in the cardio room too.] an average day at sea with nets and DPI. 
+
+A very sleepy evening, but we had to stay up late to deploy and recover the DPI. Wish I could've gone to bed a couple hours earlier; instead I found a new most-boring-but-essential task onboard ship: babysitting the winch. Someone is supposed to be on winch duty any time we deploy the DPI to make sure nothing horrific happens. Basically you just sit there and watch the wire^[I know this sounds boring, and it is, BUT it is very essential because winch-related injuries are no joke] every so often to make sure it's good.^[i.e. spooling correctly and not jumping around, bouncing too much or otherwise looking suspicious] While winch-sitting, I was trying to not become a popsicle because my jackets were all sodden from hosing nets tonight (we had a LOT of green phytoplankton this evening).^[So, not many animals but a bunch of small sea plants that are surprisingly velco-like in their ability to get stuck in the mesh of our nets] 
+
+----
+
+
+::: {layout="[64,36]"}
+
+![The night sky^[aka moon and stars] were very very bright tonight. I am still terrible at night photography^[No, I will not apologize because have YOU tried taking pictures of stars while on a vessel that keeps bobbing up and down????]](pics/nightsky.jpg){fig-alt="a dark photo, with some pinpricks of light (stars) and one very bright light (moon)"}
+
+![Everyone's^[no one's?] favorite task](pics/dpi_watch.jpg){fig-alt="a blue winch in the foreground, bolted to the deck of the ship. Assorted other equipment in the background"}
+
+:::
+
+----
+
+*Sea fun fact of the day:*  My family now asks me for sea critter identification in our family group chat and I am so proud to provide this service.^[Namely, google things better than my parents can] Today's critter was a very beautifully shiny purple [nettastomatidae eel](https://en.m.wikipedia.org/wiki/Nettastomatidae).^[at least, I'm pretty sure that's what it was]
+
+:::
+

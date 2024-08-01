@@ -1,0 +1,52 @@
+---
+title: "[Sea Log: 2024-03-16]{.subheaders}"
+draft: true
+date: 2024-03-16
+---
+
+::: {.div .bodyfont}
+
+Longest day ever where I went to bed Thursday March 14th at 1:30am^[so this counts as going to bed on "Wednesday"], slept, got up in time for lunch, then stayed up through breakfast^[the omelet did, in fact, slap.] on Friday morning^[which kinda felt like going to bed on "Thursday"]. And now I write this and it's still Friday?^[Comically, it is actually Wednesday, July 31st, 2024. Life got wild and I'm finally finishing a few loose Seabuck ends.] Somehow? My body is so confused what day it is at this point and my brain doesn't even bother trying to keep track of what day it is. We've only got a couple more days on ship before we're back in San Diego anyways, and I figure I can sort out mundanities like day of week then. 
+
+But we've got some exciting^[some more exciting than others] things to catch up on. 
+
+- So many whales^[photographing whales is hard so check them out in this [video](https://photos.app.goo.gl/VdWmUFT8Ve26k91i7), especially the first 20ish seconds] in the afternoon! 
+- Reading on deck in the sunshine when the wind isn't terribly strong is truly top-tier. Highly recommend.^[You may get to a point though where you keep jumping up and down to see whales, and after a while... you almost feel like you've seen all the whales and don't have to jump up again. But then you shake yourself back to reality and remember: YOU'RE LITERALLY ON A SHIP LOOKING AT WHALES HARDLY 50M FROM THE SHIP AND YOU MUST PINCH YOURSELF THAT THIS IS REAL. And of course you'll keep jumping up every time someone spots a whale. Also whales are really big.]
+- I will be celebrating belated pi(e) day when back on land. Need me a good GF crust. Richard did make Minerva and I a "special" dessert though^[Chocolate covered chickpeas. Which weren't bad, certainly were as advertised, and I would have again in life I suppose]
+- We caught another octopus! This time a big one! Maybe a lady octo?? So either Leroy III or Leona/Lyra.^[I think Leona is a better name, but I was out-voted in the lab and they liked Lyra better] Very exciting to hold a bigger friend, and actually feel the suction power!!^[I may have reacted rather strongly and accidentally ripped off a couple of suckers... big oops. But to be fair, Leroy/Leona looked like they were on their death bed when we pulled 'em up.] Came up in our MOCNESS, from somewhere in the 600-800m of depth range. So the corresponding ocean pressure and temperature changes on the way up were a lot to undergo, to say the least. 
+- One hasn't lived^[like, *truly* lived] until you dance on deck at 2am with a hose^[saltwater, of course. Fret not, restechs, we're not wasting precious fresh water!!] as rain. Of course we're singing at the top of our lungs.^[Paparazzi, please, hold your cameras.] 
+- Post-nets & pre-sunrise, we watched *Puss n' Boots: The Last Wish* and I would like to quote my 4am thoughts for all posterity: 
+
+::: {.blockquote}
+> Currently watching Puss and Boots Wanted Dead or Alive (or called something like that). Interesting animation style so far; not as smooth as shrek; a little grittier, almost reminiscent of kungfu panda or anime?? There's another dog who pretends to be a cat. Goldilocks is a bad-ass and has been adopted into the bear family?? Little Jack Horner is terrifying villain with a head that is far too small for his body?? (but also he's the sleeper character of this entire film and has some phenomenal one-liners) Pretty sure this might be a movie only good at this hour, or if drunk/inebriated of some kind.  
+> Ok the scene where Kitty Softpaws roasts Puss for his beard is phenomenally written. no notes.
+:::
+
+Have I mentioned recently that sea is wild??
+
+----
+
+::: {layout-ncol=2}
+
+![When you see the sunset AND sunrise](pics/sunset22.jpg){fig-alt="sunset over the ocean."}
+
+![(I am a happy gorl)^[it was hard to pick what pic to use here...the sunrise is an elusive beauty; easy to behold, hard to capture]](pics/sunrise2.jpg){fig-alt="sunrise with pink streaks over the ocean"}
+
+:::
+
+::: {layout="[26.5,47,26.5]"}
+
+![Leona in her final resting spot^[Note the white mystery stuff under her. If you definitively know what it is, please email me. I am still curious.]](pics/leona.jpg){fig-alt="a medium-sized two-spot octopus in a glass jar"}
+
+![*The* deck spot for reading.^[Not ashamed to admit that I had a very long lasting sock tan from lounging in this chair]](pics/deckspot.jpg){fig-alt="a red adirondack chair on deck, with the ocean in the background"}
+
+![RIP my sunglasses too^[did I sit on them??? crush them on something?? who knows]](pics/tragedy.jpg){fig-alt="hand holding broken pair of sunglasses missing one lens"}
+
+:::
+
+----
+
+*Sea fun fact of the day:*  I've done a lot of research about octopus reproduction and poop recently (trying to figure out what's at the bottom of Leroy/Leona's jar). It could be poop? Eggs? Sperm?? Pretty sure sperm comes out of a special arm called a [hectocotylus](https://en.wikipedia.org/wiki/Hectocotylus), which the male might use like a penis, or just rip off the whole arm and present it to the female. Perhaps not surprisingly, all my recent Google searches are for octopus excretions. It's rather hard to research what happens when you put a live octopus in a jar with formalin.
+
+:::
+
