@@ -1,43 +1,39 @@
 ---
 title: "[Sea Log: 2024-03-16]{.subheaders}"
-draft: true
+draft: false
 date: 2024-03-16
 ---
 
 ::: {.div .bodyfont}
 
-WORDS
+The last proper day of doing science. Wowzas. 
 
-final mocness. a lot of baby velellas in the manta tow (add pic) -- nope, not sure if vellela. say grass thing is actually a fish
-slimy green stuff pic; remember for posterity all the snot I pulled from mesh.
+End of an era this evening. I'll probably never process another net, or cock another moc. I am so grateful for this experience to see stuff I'd likely never see anywhere else, and yet I also now know that I am a land gal; that I love having my diversity of activities and community and hubbub of 'regular' life. 
 
-blurry cloud pic at sunset. bc the clouds were pretty. and blurry bc not everything in life is clear and that's ok. when I returned from sea not everything was clear. and now writing this several months later, some things have changed, some things have remained the same and we all learn and grow and shift. a perfectly clear life wouldn't be a fun, interesting and exciting life. I'm getting philosophical now. but as my notes say, this evening marked the end of an era. 
+![](pics/fluffy_clouds.jpg){fig-alt="pastel colored cloud at sunset, over the ocean. Photo is slightly blurry"}
 
-notes from maxwell emails:
-OK, now that that's out of the way. several things:
-1. I realized just now that I think I gave myself a sock tan with all my sitting out in the sun reading shenanigans. LOL.
-2. I ate my weight in crumble today and I have no regrets (tho I'd really love a crumble without the weird dried fruit chunks that were in this one. but beggars can't be choosers always)
-3. the -80 freezers stay on the ship; we tote our goodies (petris and frozen pyrosomes) out in dry ice
-4. When I nearly missed the sunset (egads), turns out I also missed a spectacle where they found a dead seal floating by and andrew tried to catch it on a pole. Real bummed I missed this spectacle bc sounded funny. 
-5. I chomped a pyrosome tonight. It was my last chance since these were the last nets of the whole cruise. It was a gooey one. Very salty first taste, kinda hard and then liquidy texture, then  the aftertaste is the taste-equivalent of how zoop smell. Not pleasant tbh, but I had to try it. 
-
-End of an era this evening. I'll probably never process another net, or cock another moc. I am so grateful for this experience to see stuff I'd likely never see anywhere else, and yet I also now know that I am a land gal; that I love having my diversity of activities and community and hubbub of 'regular' life. Aaand if I'm honest, I'm excited to have a place to come back home to, and a person (*cough* you *cough*) who feels like home too. I'm glad we're almost at the end of this long-distance thing because it's not always the easiest/most fun; I really like having you in my life in the big and small moments, and I like spending time with you way more often than once a month. Basically, I'm really excited to see you too in a few(ish) days.
+Writing this recap in July 2024,^[Using my notes from sea; I promise, this is the last of the sea logs that was delayed. After this I'm done.] I'm reflecting on this blurry sunset picture. The clouds are pretty and drifty and I almost like the photo better because it is a little blurry.^[I did have alternate sunset pics but this one won] Not everything in life is clear and that is okay. When I returned from sea, not everything was certain and now writing several months later, some things have changed while others have remained the same. Flowers take time to bloom and sometimes we must learn to be patient;^[whether we want to or not] a perfectly clear and steady life wouldn't be as fun, interesting, and unexpected as the life we've been given to live.^[I'm getting philosophical now. But as my notes say, this evening marked the end of an era.]
 
 ----
 
-::: {layout="[26.5,47,26.5]"}
+Some mundane notes from the day: 
 
-![words](pics/fluffy_clouds.jpg){fig-alt="a medium-sized two-spot octopus in a glass jar"}
+- I ate my weight in crumble today and I have no regrets^[tho I'd really love a crumble without the weird dried fruit chunks that were in this one. but beggars can't be choosers]
+- When I nearly missed the sunset (egads), turns out I also missed a spectacle^[Real bummed I missed this spectacle because it sounded funny to watch] where they found a dead seal floating by and Andrew tried to catch it on a pole. 
+- I chomped a pyrosome tonight. It was my last chance since these were the last nets of the whole cruise. It was a gooey one. Very salty for the first taste, kinda hard and then liquidy texture, then  the aftertaste is the taste-equivalent of how zoop smell.^[like vaguely rotting sea] Honestly, not pleasant but I had to try it.^[Max says "nauseating" but proud of me for trying it]
 
-![words](pics/manta_grass.jpg){fig-alt="a red adirondack chair on deck, with the ocean in the background"}
+----
 
-![words](pics/mesh_snot.jpg){fig-alt="hand holding broken pair of sunglasses missing one lens"}
+::: {layout-ncol=2}
+
+![A collection of small critters from the surface^[Really is incredible how much life is teeming right in the top few inches of the ocean] Manta tow](pics/manta_grass.jpg){fig-alt="a collection of small creatures with one long green one that are in a white canvas Manta tow net"}
+
+![A final ode to all the snot^[aka sea goo & phytoplankton] I pulled out of mesh](pics/mesh_snot.jpg){fig-alt="clear goo and green phytoplankton stuck in a mesh container"}
 
 :::
 
 ----
 
-*Sea fun fact of the day:*  
+*Sea fun fact of the day:* That thing that looks like a piece of grass in the Manta tow is actually a fish! Probably a [bay pipefish](https://en.wikipedia.org/wiki/Bay_pipefish) if my research is correct.^[I definitely don't remember what we called it when we pulled it up from the ocean]
 
 :::
-
