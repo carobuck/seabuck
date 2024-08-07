@@ -15,7 +15,7 @@ A very sleepy evening, but we had to stay up late to deploy and recover the DPI.
 
 ::: {layout="[64,36]"}
 
-![The night sky^[aka moon and stars] were very very bright tonight. I am still terrible at night photography^[No, I will not apologize because have YOU tried taking pictures of stars while on a vessel that keeps bobbing up and down????]](pics/nightsky.jpg){fig-alt="a dark photo, with some pinpricks of light (stars) and one very bright light (moon)"}
+![The night sky^[aka moon and stars] was very very bright tonight. I am still terrible at night photography^[No, I will not apologize because have YOU tried taking pictures of stars while on a vessel that keeps bobbing up and down????]](pics/nightsky.jpg){fig-alt="a dark photo, with some pinpricks of light (stars) and one very bright light (moon)"}
 
 ![Everyone's^[no one's?] favorite task](pics/dpi_watch.jpg){fig-alt="a blue winch in the foreground, bolted to the deck of the ship. Assorted other equipment in the background"}
 
